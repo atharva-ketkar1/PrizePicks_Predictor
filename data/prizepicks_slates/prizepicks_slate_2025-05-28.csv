@@ -1,0 +1,1587 @@
+player,team,stat_type,line_score,official
+Naz Reid,MIN,Turnovers,1.5,True
+Naz Reid,MIN,Two Pointers Attempted,3.5,True
+Naz Reid,MIN,Pts+Rebs+Asts,14.5,False
+Naz Reid,MIN,PTS,9.5,False
+Naz Reid,MIN,Pts+Rebs,24.5,False
+Naz Reid,MIN,FG Attempted,7.5,True
+Naz Reid,MIN,Pts+Rebs,17.5,False
+Naz Reid,MIN,Blocked Shots,1.5,True
+Naz Reid,MIN,3-PT Made,0.5,False
+Naz Reid,MIN,PTS,17.5,False
+Naz Reid,MIN,Pts+Asts,14.5,False
+Naz Reid,MIN,Pts+Rebs,11.5,False
+Naz Reid,MIN,PTS,7.5,False
+Naz Reid,MIN,AST,1.5,False
+Naz Reid,MIN,Pts+Asts,9.5,False
+Naz Reid,MIN,PTS,14.5,True
+Naz Reid,MIN,Blocked Shots,0.5,False
+Naz Reid,MIN,Pts+Asts,11.5,True
+Naz Reid,MIN,REB,5.5,False
+Naz Reid,MIN,REB,4.5,False
+Naz Reid,MIN,AST,3.5,False
+Naz Reid,MIN,Pts+Rebs+Asts,17.5,False
+Naz Reid,MIN,Personal Fouls,3.0,True
+Naz Reid,MIN,Rebs+Asts,9.5,False
+Naz Reid,MIN,REB,9.5,False
+Naz Reid,MIN,REB,8.5,False
+Naz Reid,MIN,Steals,1.5,True
+Naz Reid,MIN,Fantasy Score,21.0,True
+Naz Reid,MIN,3-PT Made,3.5,False
+Naz Reid,MIN,Pts+Rebs+Asts,19.5,True
+Naz Reid,MIN,3-PT Made,2.5,True
+Naz Reid,MIN,Pts+Rebs,18.5,True
+Naz Reid,MIN,Rebs+Asts,11.5,True
+Naz Reid,MIN,Pts+Asts,7.5,False
+Naz Reid,MIN,Pts+Rebs+Asts,24.5,False
+Naz Reid,MIN,REB,7.5,True
+Naz Reid,MIN,Pts+Rebs,15.5,False
+Naz Reid,MIN,Steals,0.5,False
+Naz Reid,MIN,3-PT Made,1.5,False
+Naz Reid,MIN,Pts+Asts,19.5,False
+Naz Reid,MIN,PTS,19.5,False
+Naz Reid,MIN,3-PT Attempted,4.5,True
+Naz Reid,MIN,Pts+Rebs,19.5,False
+Naz Reid,MIN,AST,2.5,True
+Luguentz Dort,OKC,3-PT Made,1.5,False
+Luguentz Dort,OKC,Blocked Shots,0.5,True
+Luguentz Dort,OKC,AST,1.5,True
+Luguentz Dort,OKC,Pts+Asts,7.5,False
+Luguentz Dort,OKC,Rebs+Asts,7.5,True
+Luguentz Dort,OKC,PTS,5.5,False
+Luguentz Dort,OKC,AST,2.5,False
+Luguentz Dort,OKC,Pts+Asts,8.5,False
+Luguentz Dort,OKC,Pts+Rebs+Asts,12.0,False
+Luguentz Dort,OKC,Fantasy Score,17.0,True
+Luguentz Dort,OKC,Pts+Rebs,9.5,False
+Luguentz Dort,OKC,Steals,0.5,False
+Luguentz Dort,OKC,3-PT Made,2.5,True
+Luguentz Dort,OKC,PTS,11.5,True
+Luguentz Dort,OKC,Steals,1.5,True
+Luguentz Dort,OKC,FG Made,2.5,True
+Luguentz Dort,OKC,Pts+Rebs+Asts,14.5,True
+Luguentz Dort,OKC,Steals,2.5,False
+Luguentz Dort,OKC,Pts+Rebs,12.5,True
+Luguentz Dort,OKC,REB,5.5,False
+Luguentz Dort,OKC,Pts+Rebs,7.5,False
+Luguentz Dort,OKC,Pts+Asts,11.5,True
+Luguentz Dort,OKC,Rebs+Asts,4.5,False
+Luguentz Dort,OKC,REB,2.5,False
+Luguentz Dort,OKC,Turnovers,0.5,True
+Luguentz Dort,OKC,Personal Fouls,3.0,True
+Luguentz Dort,OKC,Pts+Rebs+Asts,19.5,False
+Luguentz Dort,OKC,REB,4.5,True
+Luguentz Dort,OKC,PTS,14.5,False
+Luguentz Dort,OKC,Pts+Asts,14.5,False
+Luguentz Dort,OKC,Pts+Rebs+Asts,9.5,False
+Luguentz Dort,OKC,Pts+Rebs,10.5,False
+Luguentz Dort,OKC,Pts+Rebs,19.5,False
+Luguentz Dort,OKC,PTS,9.5,False
+Luguentz Dort,OKC,Pts+Rebs,14.5,False
+Luguentz Dort,OKC,3-PT Made,3.5,False
+Luguentz Dort,OKC,AST,0.5,False
+Kenrich Williams,OKC,Pts+Rebs,4.5,False
+Kenrich Williams,OKC,Pts+Rebs,9.5,False
+Kenrich Williams,OKC,Pts+Rebs+Asts,9.5,True
+Kenrich Williams,OKC,PTS,5.5,True
+Kenrich Williams,OKC,Rebs+Asts,2.5,True
+Kenrich Williams,OKC,Pts+Rebs,5.0,True
+Kenrich Williams,OKC,3-PT Made,1.5,True
+Kenrich Williams,OKC,Turnovers,0.5,True
+Kenrich Williams,OKC,3-PT Made,0.5,False
+Kenrich Williams,OKC,Steals,0.5,True
+Kenrich Williams,OKC,REB,3.5,True
+Kenrich Williams,OKC,PTS,7.5,False
+Kenrich Williams,OKC,REB,4.5,False
+Kenrich Williams,OKC,REB,2.5,False
+Kenrich Williams,OKC,Pts+Rebs+Asts,4.5,False
+Kenrich Williams,OKC,PTS,4.5,False
+Kenrich Williams,OKC,Pts+Rebs+Asts,14.5,False
+Kenrich Williams,OKC,REB,1.5,False
+Kenrich Williams,OKC,Pts+Asts,3.5,True
+Jaden McDaniels,MIN,Pts+Rebs+Asts,14.5,False
+Jaden McDaniels,MIN,Pts+Asts,9.5,False
+Jaden McDaniels,MIN,PTS,19.5,False
+Jaden McDaniels,MIN,PTS,14.5,False
+Jaden McDaniels,MIN,Fantasy Score,26.0,True
+Jaden McDaniels,MIN,FG Made,5.0,True
+Jaden McDaniels,MIN,Personal Fouls,3.5,True
+Jaden McDaniels,MIN,Steals,1.5,True
+Jaden McDaniels,MIN,Rebs+Asts,7.0,False
+Jaden McDaniels,MIN,PTS,9.5,False
+Jaden McDaniels,MIN,Pts+Asts,14.5,True
+Jaden McDaniels,MIN,3-PT Made,0.5,False
+Jaden McDaniels,MIN,PTS,17.5,False
+Jaden McDaniels,MIN,Rebs+Asts,7.5,False
+Jaden McDaniels,MIN,REB,4.5,False
+Jaden McDaniels,MIN,Pts+Rebs+Asts,29.5,False
+Jaden McDaniels,MIN,Pts+Rebs,14.5,False
+Jaden McDaniels,MIN,Pts+Rebs,18.0,True
+Jaden McDaniels,MIN,Rebs+Asts,11.5,False
+Jaden McDaniels,MIN,Pts+Rebs,19.5,False
+Jaden McDaniels,MIN,Pts+Rebs+Asts,20.0,False
+Jaden McDaniels,MIN,Pts+Rebs+Asts,24.5,True
+Jaden McDaniels,MIN,REB,5.5,False
+Jaden McDaniels,MIN,AST,3.5,True
+Jaden McDaniels,MIN,REB,9.5,False
+Jaden McDaniels,MIN,PTS,12.5,True
+Jaden McDaniels,MIN,AST,2.5,False
+Jaden McDaniels,MIN,REB,3.5,False
+Jaden McDaniels,MIN,3-PT Made,1.5,True
+Jaden McDaniels,MIN,Blocked Shots,0.5,False
+Jaden McDaniels,MIN,PTS,8.5,False
+Jaden McDaniels,MIN,Pts+Asts,11.5,False
+Jaden McDaniels,MIN,Rebs+Asts,9.5,True
+Jaden McDaniels,MIN,Steals,0.5,False
+Jaden McDaniels,MIN,Steals,2.5,False
+Jaden McDaniels,MIN,Dunks,0.5,True
+Jaden McDaniels,MIN,3-PT Made,2.5,False
+Jaden McDaniels,MIN,Blocked Shots,1.5,True
+Jaden McDaniels,MIN,REB,7.5,True
+Jaden McDaniels,MIN,Two Pointers Attempted,6.5,True
+Jaden McDaniels,MIN,REB,8.5,False
+Jaden McDaniels,MIN,PTS,11.5,False
+Jaden McDaniels,MIN,Pts+Rebs,16.5,False
+Jaden McDaniels,MIN,Pts+Rebs,24.5,False
+Jaden McDaniels,MIN,3-PT Attempted,4.5,True
+Jaden McDaniels,MIN,Free Throws Made,1.5,True
+Jaden McDaniels,MIN,Pts+Asts,19.5,False
+Jaden McDaniels,MIN,FG Attempted,11.0,True
+Jalen Williams,OKC,Pts+Rebs+Asts,44.5,False
+Jalen Williams,OKC,Pts+Rebs+Asts,39.5,False
+Jalen Williams,OKC,PTS,28.5,False
+Jalen Williams,OKC,REB,4.5,False
+Jalen Williams,OKC,Steals,0.5,False
+Jalen Williams,OKC,Pts+Rebs,26.5,False
+Jalen Williams,OKC,AST,6.5,False
+Jalen Williams,OKC,FG Made,8.0,True
+Jalen Williams,OKC,Pts+Rebs+Asts,29.5,False
+Jalen Williams,OKC,AST,5.0,False
+Jalen Williams,OKC,Rebs+Asts,13.5,False
+Jalen Williams,OKC,PTS,29.5,False
+Jalen Williams,OKC,PRA In First 5 Minutes,4.0,True
+Jalen Williams,OKC,Pts+Asts,29.5,False
+Jalen Williams,OKC,Rebs+Asts,8.5,False
+Jalen Williams,OKC,Rebs+Asts,9.5,False
+Jalen Williams,OKC,Pts+Asts,28.5,True
+Jalen Williams,OKC,Rebs+Asts,11.0,True
+Jalen Williams,OKC,3-PT Made,2.5,False
+Jalen Williams,OKC,Pts+Rebs+Asts,31.5,False
+Jalen Williams,OKC,Pts+Rebs,27.5,False
+Jalen Williams,OKC,PTS,19.5,False
+Jalen Williams,OKC,PTS,18.5,False
+Jalen Williams,OKC,3-PT Attempted,5.5,True
+Jalen Williams,OKC,Fantasy Score,42.0,True
+Jalen Williams,OKC,Free Throws Made,3.5,True
+Jalen Williams,OKC,Pts+Rebs,39.5,False
+Jalen Williams,OKC,Two Pointers Made,6.5,True
+Jalen Williams,OKC,Two Pointers Attempted,12.5,True
+Jalen Williams,OKC,FG Attempted,18.0,True
+Jalen Williams,OKC,Pts+Rebs,24.5,False
+Jalen Williams,OKC,Points In First 5 Minutes,2.5,True
+Jalen Williams,OKC,Pts+Rebs,29.5,True
+Jalen Williams,OKC,Rebs+Asts,10.5,False
+Jalen Williams,OKC,Steals,2.5,True
+Jalen Williams,OKC,Pts+Rebs+Asts,33.0,True
+Jalen Williams,OKC,REB,6.5,True
+Jalen Williams,OKC,Free Throws Attempted,4.5,True
+Jalen Williams,OKC,Pts+Rebs,34.5,False
+Jalen Williams,OKC,Turnovers,1.5,True
+Jalen Williams,OKC,Pts+Asts,25.5,False
+Jalen Williams,OKC,Blocked Shots,0.5,False
+Jalen Williams,OKC,Pts+Rebs+Asts,34.5,False
+Jalen Williams,OKC,Pts+Asts,24.5,False
+Jalen Williams,OKC,PTS,24.5,False
+Jalen Williams,OKC,Pts+Asts,34.5,False
+Jalen Williams,OKC,REB,7.5,False
+Jalen Williams,OKC,REB,8.5,False
+Jalen Williams,OKC,PTS,17.5,False
+Jalen Williams,OKC,REB,6.0,False
+Jalen Williams,OKC,PTS,22.0,True
+Jalen Williams,OKC,AST,5.5,True
+Jalen Williams,OKC,AST,3.5,False
+Jalen Williams,OKC,AST,4.5,False
+Jalen Williams,OKC,AST,7.5,False
+Jalen Williams,OKC,Rebs+Asts,14.5,False
+Jalen Williams,OKC,Pts+Rebs+Asts,30.5,False
+Jalen Williams,OKC,Pts+Asts,27.0,False
+Jalen Williams,OKC,3-PT Made,3.5,True
+Jalen Williams,OKC,Blocked Shots,1.5,True
+Rudy Gobert,MIN,PTS,7.0,True
+Rudy Gobert,MIN,PTS,5.5,False
+Rudy Gobert,MIN,Pts+Asts,7.5,False
+Rudy Gobert,MIN,REB,5.5,False
+Rudy Gobert,MIN,Pts+Rebs,13.5,False
+Rudy Gobert,MIN,REB,7.5,False
+Rudy Gobert,MIN,Defensive Rebounds,5.0,True
+Rudy Gobert,MIN,Pts+Rebs+Asts,17.0,True
+Rudy Gobert,MIN,Pts+Rebs+Asts,24.5,False
+Rudy Gobert,MIN,Pts+Rebs,19.5,False
+Rudy Gobert,MIN,Pts+Rebs+Asts,11.5,False
+Rudy Gobert,MIN,Rebs+Asts,14.5,False
+Rudy Gobert,MIN,Pts+Rebs,24.5,False
+Rudy Gobert,MIN,Blocked Shots,0.5,False
+Rudy Gobert,MIN,Rebs+Asts,11.5,True
+Rudy Gobert,MIN,PTS,4.5,False
+Rudy Gobert,MIN,Steals,1.5,True
+Rudy Gobert,MIN,AST,0.5,False
+Rudy Gobert,MIN,Pts+Asts,14.5,False
+Rudy Gobert,MIN,Blocked Shots,1.5,True
+Rudy Gobert,MIN,REB,8.0,True
+Rudy Gobert,MIN,Blocked Shots,2.5,False
+Rudy Gobert,MIN,Pts+Rebs,14.5,False
+Rudy Gobert,MIN,Rebs+Asts,9.5,False
+Rudy Gobert,MIN,REB,12.5,False
+Rudy Gobert,MIN,REB,6.5,False
+Rudy Gobert,MIN,REB,11.5,False
+Rudy Gobert,MIN,Pts+Rebs,17.5,True
+Rudy Gobert,MIN,FG Made,2.5,True
+Rudy Gobert,MIN,Pts+Asts,8.5,False
+Rudy Gobert,MIN,AST,2.5,False
+Rudy Gobert,MIN,REB,10.5,False
+Rudy Gobert,MIN,PTS,9.5,False
+Rudy Gobert,MIN,AST,1.5,True
+Rudy Gobert,MIN,Pts+Rebs,11.5,False
+Rudy Gobert,MIN,Pts+Rebs,15.5,False
+Rudy Gobert,MIN,Free Throws Attempted,3.0,True
+Rudy Gobert,MIN,Offensive Rebounds,3.0,True
+Rudy Gobert,MIN,Pts+Rebs+Asts,14.5,False
+Rudy Gobert,MIN,Pts+Rebs,18.5,False
+Rudy Gobert,MIN,Rebs+Asts,7.5,False
+Rudy Gobert,MIN,PTS,6.5,False
+Rudy Gobert,MIN,Turnovers,0.5,True
+Rudy Gobert,MIN,Fantasy Score,24.0,True
+Rudy Gobert,MIN,Pts+Asts,11.5,True
+Rudy Gobert,MIN,PTS,11.5,False
+Isaiah Joe,OKC,PTS,8.5,True
+Isaiah Joe,OKC,3-PT Made,2.5,False
+Isaiah Joe,OKC,Pts+Rebs+Asts,4.5,False
+Isaiah Joe,OKC,Turnovers,0.5,True
+Isaiah Joe,OKC,REB,2.5,False
+Isaiah Joe,OKC,REB,3.5,True
+Isaiah Joe,OKC,Pts+Rebs+Asts,9.5,True
+Isaiah Joe,OKC,Pts+Rebs+Asts,14.5,False
+Isaiah Joe,OKC,PTS,3.5,False
+Isaiah Joe,OKC,3-PT Made,1.5,True
+Isaiah Joe,OKC,3-PT Made,0.5,False
+Isaiah Joe,OKC,Steals,0.5,True
+Isaiah Joe,OKC,Pts+Rebs,4.5,False
+Isaiah Joe,OKC,Pts+Rebs+Asts,6.0,False
+Isaiah Joe,OKC,Rebs+Asts,1.5,True
+Isaiah Joe,OKC,Blocked Shots,0.5,True
+Isaiah Joe,OKC,PTS,7.5,False
+Isaiah Joe,OKC,Pts+Rebs,5.5,True
+Isaiah Joe,OKC,Pts+Rebs,9.5,False
+Isaiah Joe,OKC,PTS,9.5,False
+Isaiah Joe,OKC,Pts+Asts,4.5,True
+Chet Holmgren,OKC,Pts+Rebs,21.5,False
+Chet Holmgren,OKC,Pts+Asts,19.5,True
+Chet Holmgren,OKC,AST,0.5,False
+Chet Holmgren,OKC,FG Attempted,11.5,True
+Chet Holmgren,OKC,Blocked Shots,1.5,False
+Chet Holmgren,OKC,Pts+Rebs,22.5,False
+Chet Holmgren,OKC,Pts+Asts,14.5,False
+Chet Holmgren,OKC,REB,5.5,False
+Chet Holmgren,OKC,Rebs+Asts,14.5,False
+Chet Holmgren,OKC,Pts+Rebs+Asts,19.5,False
+Chet Holmgren,OKC,AST,2.5,True
+Chet Holmgren,OKC,Rebs+Asts,7.5,False
+Chet Holmgren,OKC,Steals,2.5,False
+Chet Holmgren,OKC,AST,1.5,False
+Chet Holmgren,OKC,Blocked Shots,2.5,True
+Chet Holmgren,OKC,Pts+Rebs,24.0,True
+Chet Holmgren,OKC,AST,3.5,False
+Chet Holmgren,OKC,Pts+Rebs,34.5,False
+Chet Holmgren,OKC,Blocked Shots,3.5,False
+Chet Holmgren,OKC,REB,7.5,False
+Chet Holmgren,OKC,Rebs+Asts,11.5,True
+Chet Holmgren,OKC,Pts+Rebs+Asts,29.5,True
+Chet Holmgren,OKC,3-PT Attempted,4.0,True
+Chet Holmgren,OKC,Two Pointers Attempted,7.5,True
+Chet Holmgren,OKC,PTS,15.5,True
+Chet Holmgren,OKC,Free Throws Made,2.5,True
+Chet Holmgren,OKC,PTS,13.5,False
+Chet Holmgren,OKC,Steals,0.5,False
+Chet Holmgren,OKC,Personal Fouls,2.5,True
+Chet Holmgren,OKC,Free Throws Attempted,3.5,True
+Chet Holmgren,OKC,Defensive Rebounds,5.5,True
+Chet Holmgren,OKC,REB,8.0,True
+Chet Holmgren,OKC,Fantasy Score,33.0,True
+Chet Holmgren,OKC,Offensive Rebounds,2.5,True
+Chet Holmgren,OKC,3-PT Made,3.5,False
+Chet Holmgren,OKC,Pts+Asts,17.0,False
+Chet Holmgren,OKC,PTS,12.5,False
+Chet Holmgren,OKC,FG Made,5.5,True
+Chet Holmgren,OKC,Steals,1.5,True
+Chet Holmgren,OKC,Turnovers,1.5,True
+Chet Holmgren,OKC,3-PT Made,2.5,True
+Chet Holmgren,OKC,3-PT Made,0.5,False
+Chet Holmgren,OKC,PTS,11.5,False
+Chet Holmgren,OKC,PTS,19.5,False
+Chet Holmgren,OKC,Pts+Rebs,29.5,False
+Chet Holmgren,OKC,REB,6.5,False
+Chet Holmgren,OKC,Pts+Rebs+Asts,25.5,False
+Chet Holmgren,OKC,Pts+Rebs,19.5,False
+Chet Holmgren,OKC,Pts+Asts,24.5,False
+Chet Holmgren,OKC,Pts+Rebs+Asts,34.5,False
+Chet Holmgren,OKC,PTS,17.5,False
+Chet Holmgren,OKC,Rebs+Asts,9.5,False
+Chet Holmgren,OKC,REB,10.5,False
+Chet Holmgren,OKC,REB,12.5,False
+Chet Holmgren,OKC,REB,11.5,False
+Mike Conley,MIN,Fantasy Score,15.0,True
+Mike Conley,MIN,Pts+Rebs+Asts,9.5,False
+Mike Conley,MIN,AST,5.5,False
+Mike Conley,MIN,AST,4.5,False
+Mike Conley,MIN,Pts+Asts,14.5,False
+Mike Conley,MIN,AST,3.0,False
+Mike Conley,MIN,Pts+Asts,9.5,False
+Mike Conley,MIN,Pts+Asts,8.5,False
+Mike Conley,MIN,Pts+Asts,7.5,False
+Mike Conley,MIN,Pts+Rebs+Asts,12.0,True
+Mike Conley,MIN,Pts+Rebs,7.5,False
+Mike Conley,MIN,REB,1.5,False
+Mike Conley,MIN,PTS,4.5,False
+Mike Conley,MIN,Pts+Rebs+Asts,14.5,False
+Mike Conley,MIN,3-PT Made,3.5,False
+Mike Conley,MIN,Pts+Rebs,14.5,False
+Mike Conley,MIN,REB,3.5,True
+Mike Conley,MIN,REB,4.5,False
+Mike Conley,MIN,Pts+Asts,12.5,False
+Mike Conley,MIN,Pts+Rebs+Asts,11.5,False
+Mike Conley,MIN,Pts+Asts,11.5,True
+Mike Conley,MIN,REB,2.5,False
+Mike Conley,MIN,PTS,11.5,False
+Mike Conley,MIN,3-PT Made,2.5,True
+Mike Conley,MIN,PTS,6.5,True
+Mike Conley,MIN,Rebs+Asts,9.5,False
+Mike Conley,MIN,AST,3.5,True
+Mike Conley,MIN,Rebs+Asts,4.5,False
+Mike Conley,MIN,Pts+Rebs,11.5,True
+Mike Conley,MIN,AST,2.5,False
+Mike Conley,MIN,Turnovers,1.5,True
+Mike Conley,MIN,Rebs+Asts,7.5,True
+Mike Conley,MIN,PTS,5.5,False
+Mike Conley,MIN,Pts+Rebs,9.0,False
+Mike Conley,MIN,Pts+Rebs+Asts,19.5,False
+Mike Conley,MIN,Steals,1.5,True
+Mike Conley,MIN,Blocked Shots,0.5,True
+Mike Conley,MIN,3-PT Made,0.5,False
+Mike Conley,MIN,PTS,9.5,False
+Nickeil Alexander-Walker,MIN,3-PT Made,3.5,True
+Nickeil Alexander-Walker,MIN,Free Throws Attempted,1.5,True
+Nickeil Alexander-Walker,MIN,REB,5.5,False
+Nickeil Alexander-Walker,MIN,Pts+Rebs+Asts,9.5,False
+Nickeil Alexander-Walker,MIN,Pts+Asts,14.5,False
+Nickeil Alexander-Walker,MIN,Turnovers,1.5,True
+Nickeil Alexander-Walker,MIN,Steals,1.5,True
+Nickeil Alexander-Walker,MIN,REB,2.5,False
+Nickeil Alexander-Walker,MIN,Blocked Shots,0.5,False
+Nickeil Alexander-Walker,MIN,Pts+Rebs,12.5,False
+Nickeil Alexander-Walker,MIN,Pts+Asts,7.5,False
+Nickeil Alexander-Walker,MIN,PTS,10.0,True
+Nickeil Alexander-Walker,MIN,REB,3.5,True
+Nickeil Alexander-Walker,MIN,AST,3.5,False
+Nickeil Alexander-Walker,MIN,PTS,7.5,False
+Nickeil Alexander-Walker,MIN,Pts+Asts,9.5,False
+Nickeil Alexander-Walker,MIN,PTS,14.5,False
+Nickeil Alexander-Walker,MIN,Pts+Rebs,14.5,True
+Nickeil Alexander-Walker,MIN,Pts+Asts,12.5,True
+Nickeil Alexander-Walker,MIN,Pts+Rebs,19.5,False
+Nickeil Alexander-Walker,MIN,Rebs+Asts,7.5,True
+Nickeil Alexander-Walker,MIN,Pts+Rebs+Asts,11.5,False
+Nickeil Alexander-Walker,MIN,3-PT Made,2.5,False
+Nickeil Alexander-Walker,MIN,PTS,5.5,False
+Nickeil Alexander-Walker,MIN,Pts+Rebs+Asts,19.5,False
+Nickeil Alexander-Walker,MIN,REB,4.5,False
+Nickeil Alexander-Walker,MIN,Pts+Rebs,9.5,False
+Nickeil Alexander-Walker,MIN,Steals,0.5,False
+Nickeil Alexander-Walker,MIN,Blocked Shots,1.5,True
+Nickeil Alexander-Walker,MIN,Pts+Rebs+Asts,15.5,True
+Nickeil Alexander-Walker,MIN,AST,5.5,False
+Nickeil Alexander-Walker,MIN,Rebs+Asts,4.5,False
+Nickeil Alexander-Walker,MIN,AST,4.5,True
+Nickeil Alexander-Walker,MIN,PTS,6.5,False
+Nickeil Alexander-Walker,MIN,AST,1.5,False
+Nickeil Alexander-Walker,MIN,REB,1.5,False
+Nickeil Alexander-Walker,MIN,Fantasy Score,18.0,True
+Nickeil Alexander-Walker,MIN,Pts+Asts,19.5,False
+Nickeil Alexander-Walker,MIN,PTS,11.5,False
+Nickeil Alexander-Walker,MIN,Pts+Rebs+Asts,24.5,False
+Cason Wallace,OKC,REB,5.5,False
+Cason Wallace,OKC,Rebs+Asts,7.5,False
+Cason Wallace,OKC,Rebs+Asts,4.5,False
+Cason Wallace,OKC,Pts+Rebs,7.5,False
+Cason Wallace,OKC,Pts+Asts,7.5,False
+Cason Wallace,OKC,AST,4.5,False
+Cason Wallace,OKC,Pts+Rebs+Asts,12.5,True
+Cason Wallace,OKC,Pts+Asts,11.5,True
+Cason Wallace,OKC,Steals,0.5,False
+Cason Wallace,OKC,Pts+Rebs,10.0,True
+Cason Wallace,OKC,Steals,3.5,False
+Cason Wallace,OKC,Pts+Rebs+Asts,9.5,False
+Cason Wallace,OKC,Pts+Asts,14.5,False
+Cason Wallace,OKC,PTS,7.0,True
+Cason Wallace,OKC,3-PT Made,1.5,True
+Cason Wallace,OKC,PTS,5.5,False
+Cason Wallace,OKC,PTS,9.5,False
+Cason Wallace,OKC,AST,2.5,False
+Cason Wallace,OKC,FG Made,2.5,True
+Cason Wallace,OKC,Pts+Rebs+Asts,11.5,False
+Cason Wallace,OKC,AST,3.5,True
+Cason Wallace,OKC,Fantasy Score,17.5,True
+Cason Wallace,OKC,PTS,11.5,False
+Cason Wallace,OKC,3-PT Made,0.5,False
+Cason Wallace,OKC,REB,4.5,True
+Cason Wallace,OKC,Rebs+Asts,5.5,True
+Cason Wallace,OKC,Turnovers,0.5,True
+Cason Wallace,OKC,PTS,4.5,False
+Cason Wallace,OKC,Steals,1.5,False
+Cason Wallace,OKC,Blocked Shots,0.5,True
+Cason Wallace,OKC,AST,1.5,False
+Cason Wallace,OKC,Pts+Asts,9.0,False
+Cason Wallace,OKC,Pts+Rebs+Asts,14.5,False
+Cason Wallace,OKC,Steals,2.5,True
+Cason Wallace,OKC,Pts+Rebs,8.5,False
+Cason Wallace,OKC,REB,2.5,False
+Cason Wallace,OKC,Pts+Rebs,14.5,False
+Cason Wallace,OKC,REB,3.5,False
+Cason Wallace,OKC,Pts+Rebs+Asts,19.5,False
+Cason Wallace,OKC,3-PT Made,2.5,False
+Shai Gilgeous-Alexander,OKC,AST,10.5,False
+Shai Gilgeous-Alexander,OKC,Pts+Rebs,44.5,False
+Shai Gilgeous-Alexander,OKC,Free Throws Attempted,10.0,True
+Shai Gilgeous-Alexander,OKC,Blocked Shots,1.5,True
+Shai Gilgeous-Alexander,OKC,Points In First 5 Minutes,4.0,True
+Shai Gilgeous-Alexander,OKC,Steals,1.5,False
+Shai Gilgeous-Alexander,OKC,Rebs+Asts,17.5,False
+Shai Gilgeous-Alexander,OKC,Pts+Rebs+Asts,54.5,False
+Shai Gilgeous-Alexander,OKC,Pts+Rebs,34.5,False
+Shai Gilgeous-Alexander,OKC,REB,7.5,False
+Shai Gilgeous-Alexander,OKC,Steals,3.5,False
+Shai Gilgeous-Alexander,OKC,Steals,2.5,True
+Shai Gilgeous-Alexander,OKC,Turnovers,2.5,True
+Shai Gilgeous-Alexander,OKC,Rebs+Asts,11.5,False
+Shai Gilgeous-Alexander,OKC,Pts+Rebs+Asts,44.5,False
+Shai Gilgeous-Alexander,OKC,PTS,29.5,False
+Shai Gilgeous-Alexander,OKC,Pts+Rebs+Asts,59.5,False
+Shai Gilgeous-Alexander,OKC,PTS,40.5,False
+Shai Gilgeous-Alexander,OKC,Fantasy Score,55.0,True
+Shai Gilgeous-Alexander,OKC,PTS,33.0,True
+Shai Gilgeous-Alexander,OKC,FG Made,11.5,True
+Shai Gilgeous-Alexander,OKC,PTS,28.5,False
+Shai Gilgeous-Alexander,OKC,Rebs+Asts,15.5,False
+Shai Gilgeous-Alexander,OKC,AST,9.5,False
+Shai Gilgeous-Alexander,OKC,AST,5.5,False
+Shai Gilgeous-Alexander,OKC,AST,8.5,True
+Shai Gilgeous-Alexander,OKC,3-PT Made,3.5,True
+Shai Gilgeous-Alexander,OKC,3-PT Made,2.5,False
+Shai Gilgeous-Alexander,OKC,REB,3.5,False
+Shai Gilgeous-Alexander,OKC,Pts+Rebs+Asts,46.0,True
+Shai Gilgeous-Alexander,OKC,REB,6.5,True
+Shai Gilgeous-Alexander,OKC,Pts+Rebs+Asts,39.5,False
+Shai Gilgeous-Alexander,OKC,Pts+Rebs+Asts,49.5,False
+Shai Gilgeous-Alexander,OKC,REB,8.5,False
+Shai Gilgeous-Alexander,OKC,Rebs+Asts,13.0,False
+Shai Gilgeous-Alexander,OKC,Pts+Asts,34.5,False
+Shai Gilgeous-Alexander,OKC,Pts+Asts,49.5,False
+Shai Gilgeous-Alexander,OKC,Pts+Rebs,38.5,True
+Shai Gilgeous-Alexander,OKC,Pts+Asts,40.5,True
+Shai Gilgeous-Alexander,OKC,REB,4.5,False
+Shai Gilgeous-Alexander,OKC,Rebs+Asts,10.5,False
+Shai Gilgeous-Alexander,OKC,AST,6.5,False
+Shai Gilgeous-Alexander,OKC,PTS,39.5,False
+Shai Gilgeous-Alexander,OKC,PTS,27.5,False
+Shai Gilgeous-Alexander,OKC,Pts+Asts,37.5,False
+Shai Gilgeous-Alexander,OKC,AST,7.0,False
+Shai Gilgeous-Alexander,OKC,Two Pointers Made,9.5,True
+Shai Gilgeous-Alexander,OKC,Pts+Rebs,49.5,False
+Shai Gilgeous-Alexander,OKC,Rebs+Asts,14.5,True
+Shai Gilgeous-Alexander,OKC,Pts+Asts,39.5,False
+Shai Gilgeous-Alexander,OKC,Personal Fouls,2.5,True
+Shai Gilgeous-Alexander,OKC,Free Throws Made,8.5,True
+Shai Gilgeous-Alexander,OKC,Two Pointers Attempted,18.0,True
+Shai Gilgeous-Alexander,OKC,FG Attempted,22.5,True
+Shai Gilgeous-Alexander,OKC,3-PT Attempted,5.0,True
+Shai Gilgeous-Alexander,OKC,Pts+Rebs,36.5,False
+Shai Gilgeous-Alexander,OKC,PTS,34.5,False
+Shai Gilgeous-Alexander,OKC,REB,5.5,False
+Shai Gilgeous-Alexander,OKC,Pts+Rebs,35.5,False
+Shai Gilgeous-Alexander,OKC,Pts+Asts,44.5,False
+Shai Gilgeous-Alexander,OKC,Pts+Rebs+Asts,42.5,False
+Anthony Edwards,MIN,Blocked Shots,1.5,True
+Anthony Edwards,MIN,Steals,2.5,False
+Anthony Edwards,MIN,Rebs+Asts,13.5,True
+Anthony Edwards,MIN,Two Pointers Made,6.5,True
+Anthony Edwards,MIN,Pts+Rebs,32.5,False
+Anthony Edwards,MIN,REB,9.5,True
+Anthony Edwards,MIN,Steals,0.5,False
+Anthony Edwards,MIN,AST,8.5,False
+Anthony Edwards,MIN,PRA In First 5 Minutes,4.0,True
+Anthony Edwards,MIN,Pts+Asts,30.5,False
+Anthony Edwards,MIN,PTS,39.5,False
+Anthony Edwards,MIN,REB,5.5,False
+Anthony Edwards,MIN,Points In First 5 Minutes,3.0,True
+Anthony Edwards,MIN,Personal Fouls,2.5,True
+Anthony Edwards,MIN,Rebs+Asts,14.5,False
+Anthony Edwards,MIN,Rebs+Asts,11.5,False
+Anthony Edwards,MIN,AST,3.5,False
+Anthony Edwards,MIN,REB,10.5,False
+Anthony Edwards,MIN,REB,7.5,False
+Anthony Edwards,MIN,Pts+Rebs,44.5,False
+Anthony Edwards,MIN,Pts+Rebs+Asts,49.5,False
+Anthony Edwards,MIN,Pts+Rebs,29.5,False
+Anthony Edwards,MIN,FG Made,9.5,True
+Anthony Edwards,MIN,Pts+Rebs+Asts,40.0,False
+Anthony Edwards,MIN,Free Throws Attempted,7.0,True
+Anthony Edwards,MIN,Pts+Rebs,34.5,False
+Anthony Edwards,MIN,3-PT Made,2.5,False
+Anthony Edwards,MIN,Pts+Asts,32.0,True
+Anthony Edwards,MIN,Pts+Asts,29.5,False
+Anthony Edwards,MIN,3-PT Made,3.5,False
+Anthony Edwards,MIN,Pts+Asts,34.5,False
+Anthony Edwards,MIN,PTS,23.5,False
+Anthony Edwards,MIN,AST,4.5,False
+Anthony Edwards,MIN,Pts+Asts,44.5,False
+Anthony Edwards,MIN,PTS,29.5,False
+Anthony Edwards,MIN,3-PT Made,5.5,False
+Anthony Edwards,MIN,Rebs+Asts,12.5,False
+Anthony Edwards,MIN,PTS,21.5,False
+Anthony Edwards,MIN,FG Attempted,21.5,True
+Anthony Edwards,MIN,Steals,1.5,True
+Anthony Edwards,MIN,3-PT Made,4.5,True
+Anthony Edwards,MIN,Fantasy Score,45.0,True
+Anthony Edwards,MIN,AST,7.5,False
+Anthony Edwards,MIN,AST,6.5,True
+Anthony Edwards,MIN,Rebs+Asts,10.5,False
+Anthony Edwards,MIN,AST,5.0,False
+Anthony Edwards,MIN,Free Throws Made,5.5,True
+Anthony Edwards,MIN,Dunks,0.5,True
+Anthony Edwards,MIN,Pts+Asts,39.5,False
+Anthony Edwards,MIN,Pts+Rebs+Asts,37.5,False
+Anthony Edwards,MIN,PTS,19.5,False
+Anthony Edwards,MIN,Pts+Rebs+Asts,54.5,False
+Anthony Edwards,MIN,Pts+Rebs+Asts,34.5,False
+Anthony Edwards,MIN,PTS,24.5,False
+Anthony Edwards,MIN,Pts+Rebs,36.5,True
+Anthony Edwards,MIN,Pts+Asts,24.5,False
+Anthony Edwards,MIN,Two Pointers Attempted,12.5,True
+Anthony Edwards,MIN,3-PT Attempted,8.5,True
+Anthony Edwards,MIN,Rebs+Asts,17.5,False
+Anthony Edwards,MIN,Pts+Rebs+Asts,44.5,True
+Anthony Edwards,MIN,PTS,34.5,False
+Anthony Edwards,MIN,REB,11.5,False
+Anthony Edwards,MIN,Pts+Rebs,39.5,False
+Anthony Edwards,MIN,PTS,27.0,True
+Julius Randle,MIN,3-PT Made,1.5,False
+Julius Randle,MIN,Defensive Rebounds,4.0,True
+Julius Randle,MIN,Two Pointers Made,4.5,True
+Julius Randle,MIN,REB,10.5,False
+Julius Randle,MIN,Offensive Rebounds,2.5,True
+Julius Randle,MIN,AST,3.5,False
+Julius Randle,MIN,Pts+Asts,29.5,False
+Julius Randle,MIN,Pts+Rebs,34.5,False
+Julius Randle,MIN,REB,5.5,False
+Julius Randle,MIN,REB,6.5,False
+Julius Randle,MIN,Fantasy Score,30.5,True
+Julius Randle,MIN,Rebs+Asts,10.5,True
+Julius Randle,MIN,REB,8.5,True
+Julius Randle,MIN,Pts+Rebs,29.5,False
+Julius Randle,MIN,Rebs+Asts,12.5,False
+Julius Randle,MIN,Pts+Rebs+Asts,24.5,False
+Julius Randle,MIN,REB,4.5,False
+Julius Randle,MIN,Pts+Rebs+Asts,34.5,False
+Julius Randle,MIN,Turnovers,3.5,True
+Julius Randle,MIN,REB,9.5,False
+Julius Randle,MIN,Pts+Rebs+Asts,39.5,False
+Julius Randle,MIN,Pts+Asts,20.5,False
+Julius Randle,MIN,PTS,16.5,False
+Julius Randle,MIN,Pts+Asts,23.5,True
+Julius Randle,MIN,3-PT Made,2.5,True
+Julius Randle,MIN,3-PT Made,3.5,False
+Julius Randle,MIN,Personal Fouls,3.0,True
+Julius Randle,MIN,AST,6.5,False
+Julius Randle,MIN,AST,7.5,False
+Julius Randle,MIN,Pts+Rebs+Asts,32.5,True
+Julius Randle,MIN,Blocked Shots,0.5,True
+Julius Randle,MIN,FG Attempted,14.0,True
+Julius Randle,MIN,AST,4.0,False
+Julius Randle,MIN,Rebs+Asts,8.5,False
+Julius Randle,MIN,Free Throws Made,3.0,True
+Julius Randle,MIN,Two Pointers Attempted,8.5,True
+Julius Randle,MIN,FG Made,6.0,True
+Julius Randle,MIN,Pts+Rebs,24.5,True
+Julius Randle,MIN,3-PT Attempted,4.5,True
+Julius Randle,MIN,PTS,24.5,False
+Julius Randle,MIN,Pts+Rebs+Asts,25.5,False
+Julius Randle,MIN,PTS,23.5,False
+Julius Randle,MIN,Turnovers,2.5,False
+Julius Randle,MIN,Steals,1.5,True
+Julius Randle,MIN,Pts+Asts,24.5,False
+Julius Randle,MIN,Rebs+Asts,14.5,False
+Julius Randle,MIN,Rebs+Asts,9.5,False
+Julius Randle,MIN,PTS,12.5,False
+Julius Randle,MIN,AST,5.5,True
+Julius Randle,MIN,3-PT Made,0.5,False
+Julius Randle,MIN,Pts+Rebs,23.0,False
+Julius Randle,MIN,Pts+Rebs,19.5,False
+Julius Randle,MIN,PTS,19.5,True
+Julius Randle,MIN,PTS,14.5,False
+Julius Randle,MIN,AST,2.5,False
+Julius Randle,MIN,Steals,0.5,False
+Julius Randle,MIN,Pts+Rebs+Asts,27.5,False
+Julius Randle,MIN,Pts+Asts,19.5,False
+Donte DiVincenzo,MIN,Pts+Rebs+Asts,24.5,False
+Donte DiVincenzo,MIN,Turnovers,1.5,True
+Donte DiVincenzo,MIN,Pts+Asts,10.5,False
+Donte DiVincenzo,MIN,AST,1.5,False
+Donte DiVincenzo,MIN,3-PT Made,4.5,False
+Donte DiVincenzo,MIN,Pts+Rebs+Asts,19.5,True
+Donte DiVincenzo,MIN,PTS,7.5,False
+Donte DiVincenzo,MIN,PTS,9.0,True
+Donte DiVincenzo,MIN,Pts+Rebs,19.5,False
+Donte DiVincenzo,MIN,Pts+Rebs,9.5,False
+Donte DiVincenzo,MIN,Pts+Rebs,14.5,False
+Donte DiVincenzo,MIN,REB,5.5,False
+Donte DiVincenzo,MIN,REB,3.5,False
+Donte DiVincenzo,MIN,3-PT Made,2.5,False
+Donte DiVincenzo,MIN,3-PT Made,1.5,False
+Donte DiVincenzo,MIN,Pts+Asts,12.5,False
+Donte DiVincenzo,MIN,Steals,1.5,True
+Donte DiVincenzo,MIN,PTS,5.5,False
+Donte DiVincenzo,MIN,PTS,14.5,False
+Donte DiVincenzo,MIN,Steals,0.5,False
+Donte DiVincenzo,MIN,Blocked Shots,0.5,True
+Donte DiVincenzo,MIN,Pts+Rebs,10.5,False
+Donte DiVincenzo,MIN,Pts+Rebs,13.5,False
+Donte DiVincenzo,MIN,PTS,6.5,False
+Donte DiVincenzo,MIN,AST,5.5,False
+Donte DiVincenzo,MIN,Pts+Asts,19.5,False
+Donte DiVincenzo,MIN,Pts+Rebs,12.5,True
+Donte DiVincenzo,MIN,Pts+Asts,9.5,False
+Donte DiVincenzo,MIN,AST,2.5,False
+Donte DiVincenzo,MIN,Pts+Rebs+Asts,15.5,False
+Donte DiVincenzo,MIN,Rebs+Asts,6.5,True
+Donte DiVincenzo,MIN,Pts+Rebs,7.5,False
+Donte DiVincenzo,MIN,AST,3.5,True
+Donte DiVincenzo,MIN,AST,4.5,False
+Donte DiVincenzo,MIN,Pts+Asts,13.5,True
+Donte DiVincenzo,MIN,PTS,11.5,False
+Donte DiVincenzo,MIN,REB,2.5,False
+Donte DiVincenzo,MIN,3-PT Made,3.5,True
+Donte DiVincenzo,MIN,REB,4.5,True
+Donte DiVincenzo,MIN,Rebs+Asts,5.5,False
+Donte DiVincenzo,MIN,Pts+Asts,14.5,False
+Alex Caruso,OKC,Pts+Rebs,10.5,False
+Alex Caruso,OKC,Rebs+Asts,4.5,False
+Alex Caruso,OKC,Pts+Rebs+Asts,11.5,False
+Alex Caruso,OKC,Pts+Rebs+Asts,14.0,True
+Alex Caruso,OKC,Pts+Rebs,13.5,True
+Alex Caruso,OKC,Pts+Rebs,19.5,False
+Alex Caruso,OKC,Pts+Rebs,9.5,False
+Alex Caruso,OKC,Steals,2.5,False
+Alex Caruso,OKC,PTS,6.5,False
+Alex Caruso,OKC,3-PT Made,1.5,True
+Alex Caruso,OKC,AST,4.5,False
+Alex Caruso,OKC,Pts+Asts,11.0,True
+Alex Caruso,OKC,PTS,5.5,False
+Alex Caruso,OKC,Pts+Asts,7.5,False
+Alex Caruso,OKC,Pts+Asts,19.5,False
+Alex Caruso,OKC,AST,3.5,True
+Alex Caruso,OKC,Pts+Rebs,11.5,False
+Alex Caruso,OKC,Turnovers,0.5,True
+Alex Caruso,OKC,PTS,8.5,True
+Alex Caruso,OKC,Free Throws Made,0.5,True
+Alex Caruso,OKC,REB,2.5,False
+Alex Caruso,OKC,PTS,7.5,False
+Alex Caruso,OKC,Steals,3.5,True
+Alex Caruso,OKC,REB,5.5,False
+Alex Caruso,OKC,AST,1.5,False
+Alex Caruso,OKC,3-PT Made,0.5,False
+Alex Caruso,OKC,3-PT Made,2.5,False
+Alex Caruso,OKC,Pts+Rebs,14.5,False
+Alex Caruso,OKC,PTS,14.5,False
+Alex Caruso,OKC,PTS,9.5,False
+Alex Caruso,OKC,PTS,11.5,False
+Alex Caruso,OKC,Rebs+Asts,5.5,False
+Alex Caruso,OKC,Rebs+Asts,9.5,False
+Alex Caruso,OKC,REB,4.5,True
+Alex Caruso,OKC,Pts+Rebs+Asts,19.5,False
+Alex Caruso,OKC,Pts+Asts,9.5,False
+Alex Caruso,OKC,Pts+Asts,14.5,False
+Alex Caruso,OKC,Pts+Rebs+Asts,12.5,False
+Alex Caruso,OKC,Blocked Shots,1.5,True
+Alex Caruso,OKC,Fantasy Score,20.0,True
+Alex Caruso,OKC,Rebs+Asts,7.5,True
+Isaiah Hartenstein,OKC,Pts+Rebs+Asts,24.5,False
+Isaiah Hartenstein,OKC,Fantasy Score,19.0,True
+Isaiah Hartenstein,OKC,REB,5.5,False
+Isaiah Hartenstein,OKC,Defensive Rebounds,4.5,True
+Isaiah Hartenstein,OKC,AST,1.5,False
+Isaiah Hartenstein,OKC,PTS,14.5,False
+Isaiah Hartenstein,OKC,REB,11.5,False
+Isaiah Hartenstein,OKC,Pts+Asts,14.5,False
+Isaiah Hartenstein,OKC,Pts+Asts,11.5,False
+Isaiah Hartenstein,OKC,Rebs+Asts,7.5,False
+Isaiah Hartenstein,OKC,Rebs+Asts,14.5,False
+Isaiah Hartenstein,OKC,REB,9.5,True
+Isaiah Hartenstein,OKC,Rebs+Asts,11.5,True
+Isaiah Hartenstein,OKC,Turnovers,1.5,True
+Isaiah Hartenstein,OKC,Blocked Shots,0.5,False
+Isaiah Hartenstein,OKC,Pts+Rebs,11.5,False
+Isaiah Hartenstein,OKC,REB,4.5,False
+Isaiah Hartenstein,OKC,Pts+Rebs,19.5,False
+Isaiah Hartenstein,OKC,AST,3.5,False
+Isaiah Hartenstein,OKC,Pts+Rebs,24.5,False
+Isaiah Hartenstein,OKC,PTS,9.5,True
+Isaiah Hartenstein,OKC,PTS,5.5,False
+Isaiah Hartenstein,OKC,AST,2.5,True
+Isaiah Hartenstein,OKC,PTS,11.5,False
+Isaiah Hartenstein,OKC,REB,10.5,False
+Isaiah Hartenstein,OKC,Pts+Rebs+Asts,19.5,True
+Isaiah Hartenstein,OKC,Steals,1.5,True
+Isaiah Hartenstein,OKC,Pts+Rebs+Asts,15.0,False
+Isaiah Hartenstein,OKC,Offensive Rebounds,2.0,True
+Isaiah Hartenstein,OKC,Rebs+Asts,8.5,False
+Isaiah Hartenstein,OKC,REB,6.5,False
+Isaiah Hartenstein,OKC,3-PT Made,0.5,True
+Isaiah Hartenstein,OKC,Personal Fouls,2.5,True
+Isaiah Hartenstein,OKC,Pts+Rebs,9.5,False
+Isaiah Hartenstein,OKC,Pts+Asts,8.5,False
+Isaiah Hartenstein,OKC,Blocked Shots,1.5,True
+Isaiah Hartenstein,OKC,Pts+Rebs,15.5,True
+Isaiah Hartenstein,OKC,Pts+Asts,7.5,False
+Isaiah Hartenstein,OKC,Pts+Rebs+Asts,11.5,False
+Isaiah Hartenstein,OKC,Pts+Asts,9.5,True
+Isaiah Hartenstein,OKC,Pts+Rebs,13.5,False
+Isaiah Hartenstein,OKC,PTS,4.5,False
+Isaiah Hartenstein,OKC,PTS,6.5,False
+Terrence Shannon,MIN,PTS,5.5,False
+Terrence Shannon,MIN,Pts+Rebs+Asts,4.5,False
+Terrence Shannon,MIN,PTS,7.5,True
+Terrence Shannon,MIN,PTS,3.5,False
+Terrence Shannon,MIN,Turnovers,0.5,True
+Terrence Shannon,MIN,AST,1.5,True
+Terrence Shannon,MIN,AST,0.5,False
+Terrence Shannon,MIN,REB,1.5,False
+Terrence Shannon,MIN,Pts+Rebs,5.5,True
+Terrence Shannon,MIN,PTS,9.5,False
+Terrence Shannon,MIN,Blocked Shots,0.5,True
+Terrence Shannon,MIN,Pts+Asts,4.5,False
+Terrence Shannon,MIN,Pts+Rebs+Asts,6.0,False
+Terrence Shannon,MIN,Pts+Rebs+Asts,14.5,False
+Terrence Shannon,MIN,REB,3.5,True
+Terrence Shannon,MIN,Pts+Rebs+Asts,9.5,True
+Terrence Shannon,MIN,Pts+Rebs,4.5,False
+Terrence Shannon,MIN,3-PT Made,1.5,True
+Terrence Shannon,MIN,3-PT Made,0.5,False
+Terrence Shannon,MIN,Steals,0.5,True
+Terrence Shannon,MIN,AST,2.5,False
+Terrence Shannon,MIN,Pts+Rebs,9.5,False
+Terrence Shannon,MIN,REB,4.5,False
+Terrence Shannon,MIN,Pts+Asts,9.5,True
+Terrence Shannon,MIN,Rebs+Asts,1.5,True
+Shai Gilgeous-Alexander + Anthony Edwards,OKC/MIN,Points (Combo),60.0,True
+Chet Holmgren + Julius Randle,OKC/MIN,Points (Combo),32.0,True
+Chet Holmgren + Jaden McDaniels,OKC/MIN,Points (Combo),28.5,True
+Chet Holmgren + Naz Reid,OKC/MIN,Points (Combo),25.5,True
+Isaiah Hartenstein + Anthony Edwards,OKC/MIN,Rebounds (Combo),14.0,True
+Chet Holmgren + Rudy Gobert,OKC/MIN,Rebounds (Combo),16.5,True
+Chet Holmgren + Anthony Edwards,OKC/MIN,Rebounds (Combo),15.5,True
+Jalen Williams + Anthony Edwards,OKC/MIN,Assists (Combo),10.5,True
+Shai Gilgeous-Alexander + Anthony Edwards,OKC/MIN,Assists (Combo),12.5,True
+Shai Gilgeous-Alexander + Julius Randle,OKC/MIN,Assists (Combo),11.5,True
+Jalen Williams + Julius Randle,OKC/MIN,Assists (Combo),9.5,True
+Luguentz Dort + Anthony Edwards,OKC/MIN,3-PT Made (Combo),5.0,True
+Luguentz Dort + Donte DiVincenzo,OKC/MIN,3-PT Made (Combo),4.0,True
+Shai Gilgeous-Alexander + Nickeil Alexander-Walker,OKC/MIN,3-PT Made (Combo),3.5,True
+Luguentz Dort + Nickeil Alexander-Walker,OKC/MIN,3-PT Made (Combo),3.5,True
+Jalen Williams + Mike Conley,OKC/MIN,Assists (Combo),8.0,True
+Jalen Williams + Donte DiVincenzo,OKC/MIN,3-PT Made (Combo),4.0,True
+Jalen Williams + Anthony Edwards,OKC/MIN,3-PT Made (Combo),5.0,True
+Myles Turner,IND,FG Made,5.0,True
+Andrew Nembhard,IND,FG Made,4.0,True
+OG Anunoby,NYK,Personal Fouls,3.0,True
+OG Anunoby,NYK,FG Made,6.0,True
+OG Anunoby,NYK,3-PT Attempted,5.5,True
+Tyrese Haliburton,IND,Free Throws Made,3.0,True
+Jalen Brunson,NYK,FG Made,10.0,True
+Jalen Brunson,NYK,3-PT Attempted,7.0,True
+Mikal Bridges,NYK,FG Made,7.0,True
+Mikal Bridges,NYK,3-PT Attempted,5.0,True
+Karl-Anthony Towns,NYK,Personal Fouls,4.0,True
+Karl-Anthony Towns,NYK,FG Made,7.0,True
+Myles Turner,IND,Pts+Rebs+Asts,24.5,False
+Myles Turner,IND,Pts+Rebs,18.5,False
+Myles Turner,IND,Rebs+Asts,7.5,True
+Myles Turner,IND,Pts+Rebs,19.5,False
+Myles Turner,IND,REB,9.5,False
+Myles Turner,IND,PTS,9.5,False
+Myles Turner,IND,Pts+Asts,11.5,False
+Myles Turner,IND,AST,3.5,False
+Myles Turner,IND,Pts+Asts,14.5,False
+Myles Turner,IND,3-PT Made,1.5,False
+Myles Turner,IND,Free Throws Made,2.5,True
+Myles Turner,IND,3-PT Made,2.5,True
+Myles Turner,IND,Rebs+Asts,4.5,False
+Myles Turner,IND,Blocked Shots,3.5,True
+Myles Turner,IND,Rebs+Asts,9.5,False
+Myles Turner,IND,Pts+Asts,15.5,False
+Myles Turner,IND,AST,0.5,False
+Myles Turner,IND,Blocked Shots,4.5,False
+Myles Turner,IND,3-PT Made,3.5,False
+Myles Turner,IND,Pts+Rebs+Asts,18.5,False
+Myles Turner,IND,PTS,14.5,False
+Myles Turner,IND,PTS,11.5,False
+Myles Turner,IND,Pts+Asts,19.5,False
+Myles Turner,IND,Free Throws Attempted,3.5,True
+Myles Turner,IND,Pts+Asts,24.5,False
+Myles Turner,IND,Pts+Rebs+Asts,29.5,False
+Myles Turner,IND,REB,3.5,False
+Myles Turner,IND,Pts+Rebs+Asts,19.5,False
+Myles Turner,IND,Pts+Rebs+Asts,21.0,False
+Myles Turner,IND,PTS,17.5,True
+Myles Turner,IND,Pts+Rebs,24.5,False
+Myles Turner,IND,Pts+Rebs,29.5,False
+Myles Turner,IND,FG Attempted,10.5,True
+Myles Turner,IND,REB,8.5,False
+Myles Turner,IND,Pts+Rebs,14.5,False
+Myles Turner,IND,Blocked Shots,1.5,False
+Myles Turner,IND,REB,4.5,False
+Myles Turner,IND,AST,2.5,True
+Myles Turner,IND,PTS,19.5,False
+Myles Turner,IND,Pts+Rebs,21.5,True
+Myles Turner,IND,Steals,0.5,False
+Myles Turner,IND,Two Pointers Attempted,6.0,True
+Myles Turner,IND,Steals,1.5,True
+Myles Turner,IND,Pts+Asts,17.5,True
+Myles Turner,IND,Blocked Shots,2.5,False
+Myles Turner,IND,3-PT Attempted,4.5,True
+Myles Turner,IND,PTS,24.5,False
+Myles Turner,IND,Rebs+Asts,6.5,False
+Myles Turner,IND,Pts+Rebs+Asts,23.5,True
+Myles Turner,IND,REB,7.5,True
+Myles Turner,IND,REB,5.0,False
+T.J. McConnell,IND,Pts+Rebs,19.5,False
+T.J. McConnell,IND,Pts+Rebs,14.5,False
+T.J. McConnell,IND,Blocked Shots,0.5,True
+T.J. McConnell,IND,REB,3.5,True
+T.J. McConnell,IND,Pts+Asts,14.5,False
+T.J. McConnell,IND,PTS,11.5,False
+T.J. McConnell,IND,REB,4.5,False
+T.J. McConnell,IND,PTS,7.5,False
+T.J. McConnell,IND,AST,5.5,True
+T.J. McConnell,IND,Rebs+Asts,7.5,True
+T.J. McConnell,IND,Pts+Rebs,7.5,False
+T.J. McConnell,IND,Pts+Rebs+Asts,11.5,False
+T.J. McConnell,IND,3-PT Made,0.5,True
+T.J. McConnell,IND,Rebs+Asts,9.5,False
+T.J. McConnell,IND,Pts+Rebs+Asts,13.5,True
+T.J. McConnell,IND,Pts+Asts,11.0,False
+T.J. McConnell,IND,REB,2.5,False
+T.J. McConnell,IND,Steals,0.5,False
+T.J. McConnell,IND,AST,2.5,False
+T.J. McConnell,IND,PTS,9.5,True
+T.J. McConnell,IND,Pts+Rebs+Asts,24.5,False
+T.J. McConnell,IND,PTS,5.5,False
+T.J. McConnell,IND,Pts+Rebs,10.0,False
+T.J. McConnell,IND,Pts+Asts,12.5,True
+T.J. McConnell,IND,Pts+Rebs+Asts,14.5,False
+T.J. McConnell,IND,Steals,1.5,True
+T.J. McConnell,IND,Pts+Asts,7.5,False
+T.J. McConnell,IND,Pts+Rebs+Asts,12.5,False
+T.J. McConnell,IND,Turnovers,1.5,True
+T.J. McConnell,IND,Rebs+Asts,4.5,False
+T.J. McConnell,IND,REB,1.5,False
+T.J. McConnell,IND,PTS,14.5,False
+T.J. McConnell,IND,AST,4.5,False
+T.J. McConnell,IND,Pts+Asts,9.5,False
+T.J. McConnell,IND,Pts+Rebs+Asts,9.5,False
+T.J. McConnell,IND,Pts+Rebs+Asts,19.5,False
+T.J. McConnell,IND,PTS,4.5,False
+T.J. McConnell,IND,Rebs+Asts,5.5,False
+T.J. McConnell,IND,Pts+Rebs,11.5,True
+T.J. McConnell,IND,AST,6.5,False
+T.J. McConnell,IND,Pts+Asts,19.5,False
+Mitchell Robinson,NYK,Pts+Rebs,19.5,False
+Mitchell Robinson,NYK,Pts+Rebs+Asts,24.5,False
+Mitchell Robinson,NYK,Pts+Asts,9.5,True
+Mitchell Robinson,NYK,Blocked Shots,1.5,True
+Mitchell Robinson,NYK,Steals,1.5,True
+Mitchell Robinson,NYK,REB,13.5,False
+Mitchell Robinson,NYK,Rebs+Asts,9.0,False
+Mitchell Robinson,NYK,Pts+Rebs,9.5,False
+Mitchell Robinson,NYK,Pts+Rebs+Asts,14.5,False
+Mitchell Robinson,NYK,AST,0.5,False
+Mitchell Robinson,NYK,Rebs+Asts,9.5,True
+Mitchell Robinson,NYK,Pts+Rebs+Asts,11.5,False
+Mitchell Robinson,NYK,Pts+Rebs+Asts,19.5,True
+Mitchell Robinson,NYK,Pts+Asts,11.5,False
+Mitchell Robinson,NYK,Pts+Asts,4.5,False
+Mitchell Robinson,NYK,REB,5.5,False
+Mitchell Robinson,NYK,REB,11.5,False
+Mitchell Robinson,NYK,REB,12.5,False
+Mitchell Robinson,NYK,Pts+Asts,7.5,False
+Mitchell Robinson,NYK,Rebs+Asts,8.5,False
+Mitchell Robinson,NYK,PTS,4.5,False
+Mitchell Robinson,NYK,Pts+Rebs,11.5,False
+Mitchell Robinson,NYK,PTS,7.5,True
+Mitchell Robinson,NYK,PTS,5.5,False
+Mitchell Robinson,NYK,PTS,9.5,False
+Mitchell Robinson,NYK,AST,1.5,True
+Mitchell Robinson,NYK,Free Throws Made,0.5,True
+Mitchell Robinson,NYK,REB,8.0,True
+Mitchell Robinson,NYK,Pts+Rebs,13.5,False
+Mitchell Robinson,NYK,REB,7.5,False
+Mitchell Robinson,NYK,PTS,8.5,False
+Mitchell Robinson,NYK,REB,6.5,False
+Mitchell Robinson,NYK,Steals,0.5,False
+Mitchell Robinson,NYK,Rebs+Asts,11.5,False
+Mitchell Robinson,NYK,Turnovers,0.5,True
+Mitchell Robinson,NYK,Rebs+Asts,14.5,False
+Mitchell Robinson,NYK,Pts+Rebs,12.5,True
+Mitchell Robinson,NYK,Steals,2.5,False
+Mitchell Robinson,NYK,Blocked Shots,2.5,False
+Mitchell Robinson,NYK,Blocked Shots,0.5,False
+Mitchell Robinson,NYK,Rebs+Asts,7.5,False
+Miles McBride,NYK,Pts+Rebs,7.5,False
+Miles McBride,NYK,3-PT Made,1.5,True
+Miles McBride,NYK,3-PT Made,2.5,False
+Miles McBride,NYK,3-PT Made,0.5,False
+Miles McBride,NYK,Pts+Asts,14.5,False
+Miles McBride,NYK,Pts+Rebs,19.5,False
+Miles McBride,NYK,Turnovers,0.5,True
+Miles McBride,NYK,PTS,9.5,True
+Miles McBride,NYK,Pts+Rebs+Asts,4.5,False
+Miles McBride,NYK,REB,1.5,False
+Miles McBride,NYK,Steals,0.5,True
+Miles McBride,NYK,Pts+Rebs+Asts,9.0,False
+Miles McBride,NYK,Blocked Shots,0.5,True
+Miles McBride,NYK,AST,1.5,True
+Miles McBride,NYK,AST,0.5,False
+Miles McBride,NYK,AST,2.5,False
+Miles McBride,NYK,REB,2.5,True
+Miles McBride,NYK,REB,4.5,False
+Miles McBride,NYK,Pts+Rebs+Asts,19.5,False
+Miles McBride,NYK,Pts+Rebs+Asts,14.5,True
+Miles McBride,NYK,Pts+Rebs,14.5,True
+Miles McBride,NYK,Pts+Rebs,4.5,False
+Miles McBride,NYK,Pts+Asts,4.5,False
+Miles McBride,NYK,PTS,4.5,False
+Miles McBride,NYK,Pts+Asts,9.5,True
+Miles McBride,NYK,PTS,6.5,False
+Miles McBride,NYK,PTS,11.5,False
+Miles McBride,NYK,PTS,14.5,False
+Miles McBride,NYK,Pts+Asts,7.5,False
+Andrew Nembhard,IND,Free Throws Made,1.5,True
+Andrew Nembhard,IND,Pts+Rebs,19.5,False
+Andrew Nembhard,IND,Personal Fouls,2.5,True
+Andrew Nembhard,IND,Pts+Rebs+Asts,29.5,False
+Andrew Nembhard,IND,Pts+Rebs+Asts,24.5,False
+Andrew Nembhard,IND,PTS,17.5,False
+Andrew Nembhard,IND,Pts+Rebs,14.5,False
+Andrew Nembhard,IND,REB,5.5,True
+Andrew Nembhard,IND,REB,6.5,False
+Andrew Nembhard,IND,REB,4.5,False
+Andrew Nembhard,IND,REB,2.5,False
+Andrew Nembhard,IND,Two Pointers Attempted,6.0,True
+Andrew Nembhard,IND,Pts+Rebs,15.5,True
+Andrew Nembhard,IND,FG Attempted,9.0,True
+Andrew Nembhard,IND,Pts+Asts,11.5,False
+Andrew Nembhard,IND,Pts+Rebs+Asts,20.5,True
+Andrew Nembhard,IND,Pts+Rebs,13.5,False
+Andrew Nembhard,IND,Pts+Rebs+Asts,17.5,False
+Andrew Nembhard,IND,PTS,14.5,False
+Andrew Nembhard,IND,Pts+Asts,16.5,True
+Andrew Nembhard,IND,3-PT Made,2.5,False
+Andrew Nembhard,IND,Rebs+Asts,6.5,False
+Andrew Nembhard,IND,3-PT Made,0.5,False
+Andrew Nembhard,IND,Rebs+Asts,8.0,False
+Andrew Nembhard,IND,PTS,9.5,False
+Andrew Nembhard,IND,3-PT Made,1.5,True
+Andrew Nembhard,IND,AST,2.5,False
+Andrew Nembhard,IND,Turnovers,1.5,True
+Andrew Nembhard,IND,Steals,2.5,False
+Andrew Nembhard,IND,Steals,0.5,False
+Andrew Nembhard,IND,Steals,1.5,True
+Andrew Nembhard,IND,PTS,8.5,False
+Andrew Nembhard,IND,Pts+Rebs,16.5,False
+Andrew Nembhard,IND,Blocked Shots,0.5,True
+Andrew Nembhard,IND,AST,7.5,False
+Andrew Nembhard,IND,PTS,11.0,True
+Andrew Nembhard,IND,Pts+Rebs+Asts,14.5,False
+Andrew Nembhard,IND,AST,8.5,False
+Andrew Nembhard,IND,Rebs+Asts,11.5,False
+Andrew Nembhard,IND,Pts+Rebs,11.5,False
+Andrew Nembhard,IND,PTS,19.5,False
+Andrew Nembhard,IND,Rebs+Asts,8.5,True
+Andrew Nembhard,IND,AST,6.5,True
+Andrew Nembhard,IND,AST,3.5,False
+Andrew Nembhard,IND,Pts+Asts,24.5,False
+Andrew Nembhard,IND,Rebs+Asts,9.5,False
+Andrew Nembhard,IND,Pts+Asts,19.5,False
+Andrew Nembhard,IND,Pts+Rebs+Asts,19.0,False
+Andrew Nembhard,IND,Pts+Asts,15.5,False
+Andrew Nembhard,IND,PTS,7.5,False
+Aaron Nesmith,IND,Turnovers,1.5,True
+Aaron Nesmith,IND,Pts+Asts,14.5,False
+Aaron Nesmith,IND,Personal Fouls,4.0,True
+Aaron Nesmith,IND,Two Pointers Made,1.5,True
+Aaron Nesmith,IND,Rebs+Asts,9.5,False
+Aaron Nesmith,IND,Pts+Asts,11.5,False
+Aaron Nesmith,IND,Pts+Rebs+Asts,29.5,False
+Aaron Nesmith,IND,Rebs+Asts,7.5,True
+Aaron Nesmith,IND,Pts+Rebs+Asts,18.5,True
+Aaron Nesmith,IND,PTS,8.5,False
+Aaron Nesmith,IND,Pts+Rebs+Asts,15.5,False
+Aaron Nesmith,IND,PTS,19.5,False
+Aaron Nesmith,IND,Rebs+Asts,6.5,False
+Aaron Nesmith,IND,AST,0.5,False
+Aaron Nesmith,IND,Pts+Asts,19.5,False
+Aaron Nesmith,IND,PTS,12.0,True
+Aaron Nesmith,IND,PTS,7.5,False
+Aaron Nesmith,IND,PTS,14.5,False
+Aaron Nesmith,IND,Pts+Asts,13.5,True
+Aaron Nesmith,IND,PTS,9.5,False
+Aaron Nesmith,IND,REB,8.5,False
+Aaron Nesmith,IND,REB,3.5,False
+Aaron Nesmith,IND,Pts+Rebs,24.5,False
+Aaron Nesmith,IND,Pts+Rebs,19.5,False
+Aaron Nesmith,IND,REB,6.5,False
+Aaron Nesmith,IND,AST,2.5,False
+Aaron Nesmith,IND,PTS,17.5,False
+Aaron Nesmith,IND,Pts+Rebs+Asts,24.5,False
+Aaron Nesmith,IND,Pts+Rebs,14.5,False
+Aaron Nesmith,IND,Pts+Rebs,17.0,True
+Aaron Nesmith,IND,Pts+Rebs+Asts,19.5,False
+Aaron Nesmith,IND,Pts+Rebs+Asts,14.5,False
+Aaron Nesmith,IND,Pts+Rebs+Asts,16.5,False
+Aaron Nesmith,IND,3-PT Attempted,5.0,True
+Aaron Nesmith,IND,3-PT Made,2.5,True
+Aaron Nesmith,IND,AST,1.5,True
+Aaron Nesmith,IND,3-PT Made,1.5,False
+Aaron Nesmith,IND,3-PT Made,3.5,False
+Aaron Nesmith,IND,Blocked Shots,0.5,False
+Aaron Nesmith,IND,Blocked Shots,1.5,True
+Aaron Nesmith,IND,Steals,0.5,False
+Aaron Nesmith,IND,Steals,1.5,True
+Aaron Nesmith,IND,Steals,2.5,False
+Aaron Nesmith,IND,Pts+Rebs,15.5,False
+Aaron Nesmith,IND,Rebs+Asts,4.5,False
+Aaron Nesmith,IND,REB,7.5,True
+Aaron Nesmith,IND,FG Attempted,8.5,True
+Aaron Nesmith,IND,Pts+Asts,10.5,False
+Aaron Nesmith,IND,Pts+Rebs,11.5,False
+Aaron Nesmith,IND,Two Pointers Attempted,3.5,True
+Aaron Nesmith,IND,Pts+Asts,9.5,False
+Bennedict Mathurin,IND,Rebs+Asts,2.5,False
+Bennedict Mathurin,IND,Pts+Asts,4.5,False
+Bennedict Mathurin,IND,Pts+Asts,9.5,True
+Bennedict Mathurin,IND,REB,2.5,False
+Bennedict Mathurin,IND,Steals,0.5,True
+Bennedict Mathurin,IND,REB,1.5,False
+Bennedict Mathurin,IND,Pts+Rebs+Asts,9.5,False
+Bennedict Mathurin,IND,Rebs+Asts,4.5,True
+Bennedict Mathurin,IND,REB,3.5,True
+Bennedict Mathurin,IND,REB,4.5,False
+Bennedict Mathurin,IND,Pts+Rebs+Asts,7.5,False
+Bennedict Mathurin,IND,Pts+Rebs+Asts,11.5,True
+Bennedict Mathurin,IND,Pts+Rebs,11.5,True
+Bennedict Mathurin,IND,Pts+Rebs+Asts,14.5,False
+Bennedict Mathurin,IND,Pts+Rebs+Asts,19.5,False
+Bennedict Mathurin,IND,Pts+Rebs,14.5,False
+Bennedict Mathurin,IND,Pts+Rebs,9.0,False
+Bennedict Mathurin,IND,Pts+Rebs,19.5,False
+Bennedict Mathurin,IND,Pts+Rebs,7.5,False
+Bennedict Mathurin,IND,Pts+Asts,11.5,False
+Bennedict Mathurin,IND,PTS,11.5,True
+Bennedict Mathurin,IND,Pts+Asts,7.5,False
+Bennedict Mathurin,IND,Pts+Asts,14.5,False
+Bennedict Mathurin,IND,PTS,6.5,False
+Bennedict Mathurin,IND,PTS,4.5,False
+Bennedict Mathurin,IND,PTS,5.5,False
+Bennedict Mathurin,IND,PTS,14.5,False
+Bennedict Mathurin,IND,PTS,12.5,False
+Bennedict Mathurin,IND,AST,1.5,True
+Bennedict Mathurin,IND,AST,0.5,False
+Bennedict Mathurin,IND,Blocked Shots,0.5,True
+Bennedict Mathurin,IND,3-PT Made,1.5,True
+Bennedict Mathurin,IND,3-PT Made,0.5,False
+Josh Hart,NYK,REB,11.5,False
+Josh Hart,NYK,PTS,5.5,False
+Josh Hart,NYK,Pts+Rebs,16.5,False
+Josh Hart,NYK,AST,2.5,False
+Josh Hart,NYK,Pts+Rebs+Asts,28.5,False
+Josh Hart,NYK,Pts+Rebs+Asts,22.5,False
+Josh Hart,NYK,Pts+Asts,19.5,False
+Josh Hart,NYK,Pts+Rebs,14.5,False
+Josh Hart,NYK,Pts+Rebs,24.5,False
+Josh Hart,NYK,REB,6.5,False
+Josh Hart,NYK,Pts+Rebs,19.5,False
+Josh Hart,NYK,Pts+Asts,9.5,False
+Josh Hart,NYK,Rebs+Asts,14.5,True
+Josh Hart,NYK,REB,7.5,False
+Josh Hart,NYK,REB,12.5,False
+Josh Hart,NYK,AST,5.5,True
+Josh Hart,NYK,3-PT Made,0.5,False
+Josh Hart,NYK,Rebs+Asts,11.5,False
+Josh Hart,NYK,AST,7.5,False
+Josh Hart,NYK,REB,9.0,False
+Josh Hart,NYK,PTS,6.5,False
+Josh Hart,NYK,Pts+Asts,11.5,False
+Josh Hart,NYK,PTS,9.0,True
+Josh Hart,NYK,Pts+Rebs+Asts,20.5,False
+Josh Hart,NYK,Rebs+Asts,13.5,False
+Josh Hart,NYK,Pts+Rebs+Asts,24.5,True
+Josh Hart,NYK,Pts+Rebs+Asts,19.5,False
+Josh Hart,NYK,Rebs+Asts,17.5,False
+Josh Hart,NYK,Pts+Rebs+Asts,29.5,False
+Josh Hart,NYK,Pts+Asts,13.5,True
+Josh Hart,NYK,Rebs+Asts,12.5,False
+Josh Hart,NYK,PTS,11.5,False
+Josh Hart,NYK,AST,6.5,False
+Josh Hart,NYK,PTS,14.5,False
+Josh Hart,NYK,Pts+Rebs,18.5,True
+Josh Hart,NYK,PTS,7.5,False
+Josh Hart,NYK,3-PT Made,1.5,True
+Josh Hart,NYK,REB,10.5,True
+Josh Hart,NYK,AST,3.5,False
+Josh Hart,NYK,Blocked Shots,0.5,False
+Josh Hart,NYK,Blocked Shots,1.5,True
+Josh Hart,NYK,Steals,0.5,False
+Josh Hart,NYK,Turnovers,1.5,True
+Josh Hart,NYK,Steals,2.5,False
+Josh Hart,NYK,Steals,1.5,True
+Josh Hart,NYK,Rebs+Asts,15.5,False
+Obi Toppin,IND,3-PT Made,1.5,True
+Obi Toppin,IND,Pts+Asts,9.5,True
+Obi Toppin,IND,Pts+Asts,14.5,False
+Obi Toppin,IND,PTS,7.0,False
+Obi Toppin,IND,Pts+Asts,7.5,False
+Obi Toppin,IND,Pts+Rebs+Asts,11.5,False
+Obi Toppin,IND,Pts+Rebs,14.5,True
+Obi Toppin,IND,REB,4.5,False
+Obi Toppin,IND,AST,3.5,False
+Obi Toppin,IND,Steals,1.5,True
+Obi Toppin,IND,Pts+Rebs,7.5,False
+Obi Toppin,IND,Pts+Rebs+Asts,12.0,True
+Obi Toppin,IND,PTS,4.5,False
+Obi Toppin,IND,Steals,0.5,False
+Obi Toppin,IND,Rebs+Asts,7.5,True
+Obi Toppin,IND,Pts+Rebs+Asts,7.5,False
+Obi Toppin,IND,Free Throws Attempted,0.5,True
+Obi Toppin,IND,AST,2.5,True
+Obi Toppin,IND,Blocked Shots,0.5,True
+Obi Toppin,IND,PTS,11.5,False
+Obi Toppin,IND,3-PT Made,0.5,False
+Obi Toppin,IND,Pts+Asts,11.5,False
+Obi Toppin,IND,Pts+Rebs+Asts,9.5,False
+Obi Toppin,IND,Pts+Rebs,10.5,False
+Obi Toppin,IND,Pts+Rebs+Asts,19.5,False
+Obi Toppin,IND,REB,6.5,False
+Obi Toppin,IND,Pts+Rebs,19.5,False
+Obi Toppin,IND,PTS,9.5,True
+Obi Toppin,IND,PTS,14.5,False
+Obi Toppin,IND,Pts+Rebs+Asts,14.5,False
+Obi Toppin,IND,Pts+Asts,8.5,False
+Obi Toppin,IND,REB,2.5,False
+Obi Toppin,IND,PTS,5.5,False
+Obi Toppin,IND,AST,0.5,False
+Obi Toppin,IND,REB,5.5,True
+Ben Sheppard,IND,Steals,0.5,False
+Ben Sheppard,IND,REB,2.5,False
+Ben Sheppard,IND,Pts+Rebs+Asts,7.5,False
+Ben Sheppard,IND,REB,3.5,True
+Ben Sheppard,IND,Pts+Rebs+Asts,9.5,True
+Ben Sheppard,IND,Pts+Rebs+Asts,11.5,False
+Ben Sheppard,IND,Pts+Rebs,9.5,True
+Ben Sheppard,IND,REB,4.5,False
+Ben Sheppard,IND,Pts+Rebs,7.5,False
+Ben Sheppard,IND,Pts+Rebs,4.5,False
+Ben Sheppard,IND,Pts+Rebs,11.5,False
+Ben Sheppard,IND,AST,1.5,True
+Ben Sheppard,IND,AST,0.5,False
+Ben Sheppard,IND,PTS,4.5,False
+Ben Sheppard,IND,PTS,7.5,False
+Ben Sheppard,IND,Blocked Shots,0.5,True
+Ben Sheppard,IND,PTS,2.5,False
+Ben Sheppard,IND,3-PT Made,1.5,True
+Ben Sheppard,IND,PTS,5.5,True
+Ben Sheppard,IND,Pts+Rebs+Asts,4.5,False
+Ben Sheppard,IND,Rebs+Asts,2.5,False
+Ben Sheppard,IND,REB,1.5,False
+Ben Sheppard,IND,Turnovers,0.5,True
+Ben Sheppard,IND,Rebs+Asts,4.5,True
+Ben Sheppard,IND,Steals,1.5,True
+OG Anunoby,NYK,Pts+Asts,18.5,True
+OG Anunoby,NYK,FG Attempted,13.0,True
+OG Anunoby,NYK,Pts+Rebs+Asts,21.5,False
+OG Anunoby,NYK,Two Pointers Made,4.0,True
+OG Anunoby,NYK,Blocked Shots,2.5,False
+OG Anunoby,NYK,Steals,2.5,False
+OG Anunoby,NYK,Blocked Shots,1.5,True
+OG Anunoby,NYK,Rebs+Asts,7.5,False
+OG Anunoby,NYK,Pts+Asts,16.5,False
+OG Anunoby,NYK,Free Throws Attempted,2.5,True
+OG Anunoby,NYK,Pts+Asts,17.5,False
+OG Anunoby,NYK,Pts+Rebs,20.5,False
+OG Anunoby,NYK,Pts+Rebs,22.5,True
+OG Anunoby,NYK,Steals,0.5,False
+OG Anunoby,NYK,PTS,19.5,False
+OG Anunoby,NYK,PTS,14.5,False
+OG Anunoby,NYK,Pts+Asts,19.5,False
+OG Anunoby,NYK,Blocked Shots,0.5,False
+OG Anunoby,NYK,Pts+Asts,14.5,False
+OG Anunoby,NYK,PTS,24.5,False
+OG Anunoby,NYK,Pts+Rebs+Asts,20.5,False
+OG Anunoby,NYK,3-PT Made,4.5,False
+OG Anunoby,NYK,PTS,13.5,False
+OG Anunoby,NYK,3-PT Made,2.5,False
+OG Anunoby,NYK,3-PT Made,3.5,True
+OG Anunoby,NYK,REB,5.5,False
+OG Anunoby,NYK,PTS,17.5,False
+OG Anunoby,NYK,PTS,11.5,False
+OG Anunoby,NYK,Pts+Rebs+Asts,23.5,True
+OG Anunoby,NYK,AST,2.5,True
+OG Anunoby,NYK,AST,3.5,False
+OG Anunoby,NYK,Rebs+Asts,9.5,True
+OG Anunoby,NYK,3-PT Made,1.5,False
+OG Anunoby,NYK,AST,1.5,False
+OG Anunoby,NYK,Pts+Rebs,19.5,False
+OG Anunoby,NYK,PTS,16.5,True
+OG Anunoby,NYK,Pts+Asts,24.5,False
+OG Anunoby,NYK,REB,3.5,False
+OG Anunoby,NYK,Pts+Rebs+Asts,19.5,False
+OG Anunoby,NYK,Pts+Rebs,24.5,False
+OG Anunoby,NYK,Pts+Rebs+Asts,24.5,False
+OG Anunoby,NYK,Pts+Rebs+Asts,29.5,False
+OG Anunoby,NYK,Pts+Rebs,29.5,False
+OG Anunoby,NYK,REB,7.5,False
+OG Anunoby,NYK,REB,6.5,True
+OG Anunoby,NYK,Steals,1.5,True
+OG Anunoby,NYK,Turnovers,1.5,True
+OG Anunoby,NYK,Two Pointers Attempted,7.0,True
+OG Anunoby,NYK,Pts+Rebs,21.5,False
+Pascal Siakam,IND,PTS,14.5,False
+Pascal Siakam,IND,Blocked Shots,1.5,True
+Pascal Siakam,IND,Blocked Shots,0.5,False
+Pascal Siakam,IND,Steals,0.5,False
+Pascal Siakam,IND,Pts+Rebs+Asts,33.5,False
+Pascal Siakam,IND,Pts+Rebs,30.5,False
+Pascal Siakam,IND,Free Throws Attempted,4.5,True
+Pascal Siakam,IND,Rebs+Asts,9.5,True
+Pascal Siakam,IND,FG Attempted,16.5,True
+Pascal Siakam,IND,Pts+Rebs,25.5,False
+Pascal Siakam,IND,Pts+Asts,22.5,False
+Pascal Siakam,IND,Pts+Asts,21.5,False
+Pascal Siakam,IND,AST,6.5,False
+Pascal Siakam,IND,AST,4.5,True
+Pascal Siakam,IND,PTS,29.5,False
+Pascal Siakam,IND,AST,2.5,False
+Pascal Siakam,IND,PTS,24.5,False
+Pascal Siakam,IND,PTS,20.5,True
+Pascal Siakam,IND,Pts+Asts,29.5,False
+Pascal Siakam,IND,PTS,17.5,False
+Pascal Siakam,IND,Pts+Rebs,29.5,False
+Pascal Siakam,IND,Pts+Asts,19.5,False
+Pascal Siakam,IND,Pts+Rebs,34.5,False
+Pascal Siakam,IND,Pts+Asts,23.5,True
+Pascal Siakam,IND,REB,9.5,False
+Pascal Siakam,IND,Pts+Rebs,24.5,False
+Pascal Siakam,IND,Pts+Rebs,26.5,True
+Pascal Siakam,IND,Pts+Rebs+Asts,34.5,False
+Pascal Siakam,IND,Pts+Rebs+Asts,30.0,True
+Pascal Siakam,IND,Pts+Rebs+Asts,24.5,False
+Pascal Siakam,IND,Pts+Rebs+Asts,39.5,False
+Pascal Siakam,IND,REB,8.5,False
+Pascal Siakam,IND,REB,7.5,True
+Pascal Siakam,IND,REB,5.5,False
+Pascal Siakam,IND,3-PT Made,1.5,True
+Pascal Siakam,IND,Rebs+Asts,9.0,False
+Pascal Siakam,IND,Turnovers,1.5,True
+Pascal Siakam,IND,Free Throws Made,3.5,True
+Pascal Siakam,IND,Rebs+Asts,11.5,False
+Pascal Siakam,IND,Rebs+Asts,7.5,False
+Pascal Siakam,IND,3-PT Made,0.5,False
+Pascal Siakam,IND,Pts+Rebs,19.5,False
+Pascal Siakam,IND,AST,5.5,False
+Pascal Siakam,IND,3-PT Made,2.5,False
+Pascal Siakam,IND,AST,1.5,False
+Pascal Siakam,IND,Steals,1.5,True
+Pascal Siakam,IND,3-PT Attempted,3.5,True
+Pascal Siakam,IND,Pts+Asts,34.5,False
+Pascal Siakam,IND,PTS,19.5,False
+Pascal Siakam,IND,Two Pointers Made,7.0,True
+Pascal Siakam,IND,FG Made,8.0,True
+Pascal Siakam,IND,Pts+Rebs+Asts,27.5,False
+Pascal Siakam,IND,Rebs+Asts,10.5,False
+Pascal Siakam,IND,REB,4.5,False
+Pascal Siakam,IND,Pts+Rebs+Asts,28.5,False
+Pascal Siakam,IND,Personal Fouls,3.5,True
+Pascal Siakam,IND,Two Pointers Attempted,13.0,True
+Pascal Siakam,IND,REB,6.0,False
+Tyrese Haliburton,IND,Pts+Rebs,26.5,False
+Tyrese Haliburton,IND,REB,8.5,False
+Tyrese Haliburton,IND,REB,7.5,False
+Tyrese Haliburton,IND,REB,6.5,True
+Tyrese Haliburton,IND,AST,10.0,False
+Tyrese Haliburton,IND,AST,7.5,False
+Tyrese Haliburton,IND,PTS,29.5,False
+Tyrese Haliburton,IND,PTS,17.5,False
+Tyrese Haliburton,IND,AST,12.5,True
+Tyrese Haliburton,IND,PTS,19.5,False
+Tyrese Haliburton,IND,PTS,24.5,False
+Tyrese Haliburton,IND,AST,8.5,False
+Tyrese Haliburton,IND,AST,14.5,False
+Tyrese Haliburton,IND,AST,13.5,False
+Tyrese Haliburton,IND,Pts+Asts,29.5,False
+Tyrese Haliburton,IND,PRA In First 5 Minutes,3.5,True
+Tyrese Haliburton,IND,Two Pointers Made,4.5,True
+Tyrese Haliburton,IND,Pts+Asts,44.5,False
+Tyrese Haliburton,IND,Pts+Asts,31.5,False
+Tyrese Haliburton,IND,Pts+Rebs+Asts,39.5,True
+Tyrese Haliburton,IND,Steals,1.5,True
+Tyrese Haliburton,IND,3-PT Made,5.5,False
+Tyrese Haliburton,IND,Pts+Rebs+Asts,36.5,False
+Tyrese Haliburton,IND,3-PT Made,2.5,False
+Tyrese Haliburton,IND,3-PT Made,4.5,True
+Tyrese Haliburton,IND,Rebs+Asts,12.5,False
+Tyrese Haliburton,IND,PTS,18.5,False
+Tyrese Haliburton,IND,FG Attempted,17.5,True
+Tyrese Haliburton,IND,REB,4.5,False
+Tyrese Haliburton,IND,REB,5.0,False
+Tyrese Haliburton,IND,Turnovers,2.5,True
+Tyrese Haliburton,IND,PTS,26.5,False
+Tyrese Haliburton,IND,Steals,0.5,False
+Tyrese Haliburton,IND,Pts+Asts,34.5,True
+Tyrese Haliburton,IND,Pts+Asts,24.5,False
+Tyrese Haliburton,IND,Two Pointers Attempted,8.0,True
+Tyrese Haliburton,IND,3-PT Attempted,9.5,True
+Tyrese Haliburton,IND,Steals,2.5,False
+Tyrese Haliburton,IND,Pts+Asts,39.5,False
+Tyrese Haliburton,IND,Rebs+Asts,13.5,False
+Tyrese Haliburton,IND,FG Made,7.5,True
+Tyrese Haliburton,IND,PTS,21.5,True
+Tyrese Haliburton,IND,Pts+Rebs+Asts,49.5,False
+Tyrese Haliburton,IND,Pts+Rebs,24.5,False
+Tyrese Haliburton,IND,Pts+Rebs,25.5,False
+Tyrese Haliburton,IND,Pts+Rebs,39.5,False
+Tyrese Haliburton,IND,Pts+Rebs,29.5,True
+Tyrese Haliburton,IND,Pts+Rebs+Asts,29.5,False
+Tyrese Haliburton,IND,Pts+Rebs,34.5,False
+Tyrese Haliburton,IND,Blocked Shots,1.5,True
+Tyrese Haliburton,IND,REB,3.5,False
+Tyrese Haliburton,IND,Rebs+Asts,15.0,True
+Tyrese Haliburton,IND,Rebs+Asts,19.5,False
+Tyrese Haliburton,IND,Pts+Rebs+Asts,34.5,False
+Tyrese Haliburton,IND,Rebs+Asts,17.5,False
+Tyrese Haliburton,IND,Pts+Rebs+Asts,44.5,False
+Jalen Brunson,NYK,Pts+Rebs,44.5,False
+Jalen Brunson,NYK,Pts+Rebs+Asts,44.5,True
+Jalen Brunson,NYK,Rebs+Asts,10.0,True
+Jalen Brunson,NYK,Pts+Rebs+Asts,41.0,False
+Jalen Brunson,NYK,Pts+Rebs,29.5,False
+Jalen Brunson,NYK,PTS,34.5,False
+Jalen Brunson,NYK,REB,5.5,False
+Jalen Brunson,NYK,AST,8.5,True
+Jalen Brunson,NYK,AST,5.5,False
+Jalen Brunson,NYK,AST,10.5,False
+Jalen Brunson,NYK,REB,4.5,True
+Jalen Brunson,NYK,Pts+Rebs+Asts,34.5,False
+Jalen Brunson,NYK,Rebs+Asts,11.5,False
+Jalen Brunson,NYK,Rebs+Asts,7.5,False
+Jalen Brunson,NYK,Rebs+Asts,8.5,False
+Jalen Brunson,NYK,Pts+Rebs,33.5,False
+Jalen Brunson,NYK,Pts+Rebs+Asts,54.5,False
+Jalen Brunson,NYK,REB,2.5,False
+Jalen Brunson,NYK,REB,3.5,False
+Jalen Brunson,NYK,Pts+Rebs,35.5,True
+Jalen Brunson,NYK,PTS,26.5,False
+Jalen Brunson,NYK,Pts+Asts,29.5,False
+Jalen Brunson,NYK,Rebs+Asts,14.5,False
+Jalen Brunson,NYK,PTS,38.5,False
+Jalen Brunson,NYK,PRA In First 5 Minutes,4.0,True
+Jalen Brunson,NYK,Pts+Rebs+Asts,39.5,False
+Jalen Brunson,NYK,Steals,1.5,True
+Jalen Brunson,NYK,Points In First 5 Minutes,3.0,True
+Jalen Brunson,NYK,Two Pointers Made,7.5,True
+Jalen Brunson,NYK,FG Attempted,21.5,True
+Jalen Brunson,NYK,Pts+Asts,34.5,False
+Jalen Brunson,NYK,AST,9.5,False
+Jalen Brunson,NYK,Pts+Rebs+Asts,49.5,False
+Jalen Brunson,NYK,3-PT Made,1.5,False
+Jalen Brunson,NYK,Pts+Asts,37.5,False
+Jalen Brunson,NYK,Rebs+Asts,9.5,False
+Jalen Brunson,NYK,Free Throws Made,7.5,True
+Jalen Brunson,NYK,Turnovers,2.5,True
+Jalen Brunson,NYK,Steals,0.5,False
+Jalen Brunson,NYK,Blocked Shots,0.5,True
+Jalen Brunson,NYK,Two Pointers Attempted,15.0,True
+Jalen Brunson,NYK,Free Throws Attempted,8.5,True
+Jalen Brunson,NYK,3-PT Made,3.5,True
+Jalen Brunson,NYK,3-PT Made,4.5,False
+Jalen Brunson,NYK,Pts+Asts,44.5,False
+Jalen Brunson,NYK,PTS,29.5,False
+Jalen Brunson,NYK,PTS,24.5,False
+Jalen Brunson,NYK,Pts+Asts,49.5,False
+Jalen Brunson,NYK,PTS,30.5,True
+Jalen Brunson,NYK,AST,6.5,False
+Jalen Brunson,NYK,Pts+Asts,39.5,True
+Jalen Brunson,NYK,PTS,39.5,False
+Jalen Brunson,NYK,Pts+Rebs,39.5,False
+Mikal Bridges,NYK,Turnovers,1.5,True
+Mikal Bridges,NYK,REB,2.5,False
+Mikal Bridges,NYK,Rebs+Asts,9.5,False
+Mikal Bridges,NYK,REB,4.5,True
+Mikal Bridges,NYK,Blocked Shots,1.5,True
+Mikal Bridges,NYK,PTS,14.5,False
+Mikal Bridges,NYK,AST,2.5,False
+Mikal Bridges,NYK,3-PT Made,1.5,False
+Mikal Bridges,NYK,PTS,17.0,True
+Mikal Bridges,NYK,3-PT Made,2.5,True
+Mikal Bridges,NYK,PTS,23.5,False
+Mikal Bridges,NYK,REB,3.5,False
+Mikal Bridges,NYK,Rebs+Asts,11.5,True
+Mikal Bridges,NYK,REB,6.5,False
+Mikal Bridges,NYK,Pts+Rebs,24.5,True
+Mikal Bridges,NYK,Pts+Rebs+Asts,24.5,False
+Mikal Bridges,NYK,Pts+Rebs,21.0,False
+Mikal Bridges,NYK,Pts+Rebs+Asts,34.5,False
+Mikal Bridges,NYK,Pts+Asts,20.0,False
+Mikal Bridges,NYK,Pts+Rebs,29.5,False
+Mikal Bridges,NYK,REB,5.5,False
+Mikal Bridges,NYK,PTS,24.5,False
+Mikal Bridges,NYK,Pts+Asts,29.5,False
+Mikal Bridges,NYK,Pts+Asts,24.5,True
+Mikal Bridges,NYK,AST,3.5,False
+Mikal Bridges,NYK,AST,4.5,True
+Mikal Bridges,NYK,Steals,0.5,False
+Mikal Bridges,NYK,PTS,19.5,False
+Mikal Bridges,NYK,AST,5.5,False
+Mikal Bridges,NYK,3-PT Made,3.5,False
+Mikal Bridges,NYK,PTS,15.5,False
+Mikal Bridges,NYK,PTS,12.5,False
+Mikal Bridges,NYK,Two Pointers Attempted,9.5,True
+Mikal Bridges,NYK,Free Throws Made,1.5,True
+Mikal Bridges,NYK,Pts+Rebs+Asts,22.5,False
+Mikal Bridges,NYK,Blocked Shots,0.5,False
+Mikal Bridges,NYK,Steals,2.5,False
+Mikal Bridges,NYK,Steals,1.5,True
+Mikal Bridges,NYK,Pts+Rebs+Asts,26.5,True
+Mikal Bridges,NYK,Two Pointers Made,5.0,True
+Mikal Bridges,NYK,REB,4.0,False
+Mikal Bridges,NYK,FG Attempted,14.5,True
+Mikal Bridges,NYK,Pts+Rebs+Asts,29.5,False
+Mikal Bridges,NYK,Pts+Rebs+Asts,19.5,False
+Mikal Bridges,NYK,Pts+Rebs,19.5,False
+Karl-Anthony Towns,NYK,PTS,17.5,False
+Karl-Anthony Towns,NYK,Pts+Rebs,30.5,False
+Karl-Anthony Towns,NYK,Pts+Rebs,31.5,False
+Karl-Anthony Towns,NYK,REB,15.5,False
+Karl-Anthony Towns,NYK,Free Throws Attempted,5.5,True
+Karl-Anthony Towns,NYK,PTS,16.5,False
+Karl-Anthony Towns,NYK,3-PT Made,2.5,False
+Karl-Anthony Towns,NYK,PTS,29.5,False
+Karl-Anthony Towns,NYK,Turnovers,2.5,True
+Karl-Anthony Towns,NYK,REB,9.5,False
+Karl-Anthony Towns,NYK,Rebs+Asts,14.5,False
+Karl-Anthony Towns,NYK,Blocked Shots,1.5,True
+Karl-Anthony Towns,NYK,Steals,1.5,True
+Karl-Anthony Towns,NYK,Rebs+Asts,17.5,False
+Karl-Anthony Towns,NYK,Free Throws Made,4.5,True
+Karl-Anthony Towns,NYK,REB,16.5,False
+Karl-Anthony Towns,NYK,Pts+Rebs+Asts,29.5,False
+Karl-Anthony Towns,NYK,Pts+Asts,19.5,False
+Karl-Anthony Towns,NYK,Rebs+Asts,11.5,False
+Karl-Anthony Towns,NYK,REB,10.5,False
+Karl-Anthony Towns,NYK,Rebs+Asts,10.5,False
+Karl-Anthony Towns,NYK,Rebounds In First 5 Minutes,1.5,True
+Karl-Anthony Towns,NYK,Two Pointers Attempted,11.0,True
+Karl-Anthony Towns,NYK,Blocked Shots,0.5,False
+Karl-Anthony Towns,NYK,REB,11.5,True
+Karl-Anthony Towns,NYK,REB,8.5,False
+Karl-Anthony Towns,NYK,Pts+Rebs,29.5,False
+Karl-Anthony Towns,NYK,Pts+Rebs+Asts,39.5,False
+Karl-Anthony Towns,NYK,Pts+Rebs,44.5,False
+Karl-Anthony Towns,NYK,Pts+Rebs+Asts,44.5,False
+Karl-Anthony Towns,NYK,Pts+Rebs,39.5,False
+Karl-Anthony Towns,NYK,Two Pointers Made,5.5,True
+Karl-Anthony Towns,NYK,Pts+Asts,23.5,True
+Karl-Anthony Towns,NYK,Pts+Rebs,34.5,False
+Karl-Anthony Towns,NYK,PRA In First 5 Minutes,4.5,True
+Karl-Anthony Towns,NYK,AST,2.5,False
+Karl-Anthony Towns,NYK,PTS,24.5,False
+Karl-Anthony Towns,NYK,Pts+Asts,20.5,False
+Karl-Anthony Towns,NYK,PTS,19.5,False
+Karl-Anthony Towns,NYK,AST,3.5,True
+Karl-Anthony Towns,NYK,PTS,21.5,True
+Karl-Anthony Towns,NYK,Pts+Rebs+Asts,35.0,True
+Karl-Anthony Towns,NYK,Pts+Rebs+Asts,32.5,False
+Karl-Anthony Towns,NYK,Rebs+Asts,12.5,False
+Karl-Anthony Towns,NYK,Pts+Asts,29.5,False
+Karl-Anthony Towns,NYK,3-PT Attempted,4.5,True
+Karl-Anthony Towns,NYK,PTS,27.5,False
+Karl-Anthony Towns,NYK,FG Attempted,15.5,True
+Karl-Anthony Towns,NYK,3-PT Made,3.5,True
+Karl-Anthony Towns,NYK,Rebs+Asts,13.5,True
+Karl-Anthony Towns,NYK,Pts+Rebs,33.0,True
+Karl-Anthony Towns,NYK,REB,14.5,False
+Karl-Anthony Towns,NYK,Points In First 5 Minutes,2.5,True
+Landry Shamet,NYK,PTS,4.5,False
+Landry Shamet,NYK,Steals,0.5,True
+Landry Shamet,NYK,Turnovers,0.5,True
+Landry Shamet,NYK,Pts+Rebs+Asts,4.5,False
+Landry Shamet,NYK,Rebs+Asts,4.5,True
+Landry Shamet,NYK,REB,2.5,False
+Landry Shamet,NYK,Pts+Rebs+Asts,7.5,False
+Landry Shamet,NYK,Pts+Rebs+Asts,11.5,False
+Landry Shamet,NYK,Pts+Rebs+Asts,9.5,True
+Landry Shamet,NYK,Rebs+Asts,2.5,False
+Landry Shamet,NYK,REB,0.5,False
+Landry Shamet,NYK,REB,1.5,True
+Landry Shamet,NYK,Pts+Rebs,3.5,False
+Landry Shamet,NYK,PTS,2.5,False
+Landry Shamet,NYK,Pts+Rebs,7.5,False
+Landry Shamet,NYK,Pts+Rebs,9.5,True
+Landry Shamet,NYK,Pts+Rebs,11.5,False
+Landry Shamet,NYK,Pts+Asts,3.5,False
+Landry Shamet,NYK,Pts+Asts,7.5,True
+Landry Shamet,NYK,Pts+Asts,9.5,False
+Landry Shamet,NYK,PTS,7.5,False
+Landry Shamet,NYK,AST,0.5,False
+Landry Shamet,NYK,3-PT Made,1.5,True
+Landry Shamet,NYK,AST,2.5,False
+Landry Shamet,NYK,PTS,5.5,True
+Landry Shamet,NYK,AST,1.5,True
+Delon Wright,NYK,Pts+Rebs+Asts,4.5,False
+Delon Wright,NYK,PTS,5.5,False
+Delon Wright,NYK,AST,1.5,True
+Delon Wright,NYK,PTS,4.5,True
+Delon Wright,NYK,Pts+Rebs+Asts,9.5,False
+Delon Wright,NYK,Rebs+Asts,4.5,True
+Delon Wright,NYK,REB,2.5,False
+Delon Wright,NYK,REB,1.5,True
+Delon Wright,NYK,Steals,0.5,False
+Delon Wright,NYK,Turnovers,0.5,True
+Delon Wright,NYK,Steals,1.5,True
+Delon Wright,NYK,AST,2.5,False
+Delon Wright,NYK,REB,0.5,False
+Delon Wright,NYK,Pts+Rebs+Asts,7.5,True
+Delon Wright,NYK,PTS,1.5,False
+Delon Wright,NYK,Blocked Shots,0.5,True
+Delon Wright,NYK,3-PT Made,0.5,True
+Delon Wright,NYK,AST,0.5,False
+Karl-Anthony Towns + Pascal Siakam,NYK/IND,Points (Combo),42.0,True
+Mikal Bridges + Pascal Siakam,NYK/IND,Points (Combo),38.0,True
+Karl-Anthony Towns + Tyrese Haliburton,NYK/IND,Points (Combo),43.5,True
+Karl-Anthony Towns + Myles Turner,NYK/IND,Points (Combo),36.0,True
+Josh Hart + Pascal Siakam,NYK/IND,Rebounds (Combo),15.0,True
+Mitchell Robinson + Pascal Siakam,NYK/IND,Rebounds (Combo),14.0,True
+Josh Hart + Myles Turner,NYK/IND,Rebounds (Combo),14.0,True
+Mitchell Robinson + Myles Turner,NYK/IND,Rebounds (Combo),13.5,True
+Mikal Bridges + Andrew Nembhard,NYK/IND,Assists (Combo),7.5,True
+Jalen Brunson + Andrew Nembhard,NYK/IND,Assists (Combo),11.0,True
+Josh Hart + Andrew Nembhard,NYK/IND,Assists (Combo),8.5,True
+Jalen Brunson + Aaron Nesmith,NYK/IND,3-PT Made (Combo),4.5,True
+OG Anunoby + Aaron Nesmith,NYK/IND,3-PT Made (Combo),4.0,True
+Mikal Bridges + Tyrese Haliburton,NYK/IND,3-PT Made (Combo),5.0,True
