@@ -44,9 +44,9 @@ def predict_edges(slate_csv, stat_filter='PTS', threshold=2.5):
     return result_df.sort_values(by='abs_edge', ascending=False).drop(columns='abs_edge')
 
 
-def save_predictions(df, output_dir='predicted_edges'):
+def save_predictions(df, output_dir='predictions'):
     today = datetime.date.today().isoformat()
-    output_path = os.path.join(output_dir, f"predicted_edges_{today}.csv")
+    output_path = os.path.join(output_dir, f"predictions_{today}.csv")
     df.to_csv(output_path, index=False)
     print(f"Saved recommended picks to: {output_path}")
 
