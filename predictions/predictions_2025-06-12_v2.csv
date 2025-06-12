@@ -1,0 +1,10 @@
+player,stat_type,line_score,predicted_avg,edge,pick,minutes_avg,home_avg,away_avg,PTS_avg_3,PTS_avg_5,PTS_avg_10,AST_avg_3,AST_avg_5,AST_avg_10
+Isaiah Joe,PTS,2.5,7.8,5.3,OVER,11.8,5.67,7.25,7.67,7.8,6.3,,,
+Myles Turner,PTS,13.5,16.8,3.3,OVER,31.4,16.0,16.0,13.33,16.8,16.0,,,
+Aaron Wiggins,PTS,5.5,8.2,2.7,OVER,13.7,10.83,4.0,9.67,8.2,8.1,,,
+Aaron Wiggins,PTS,5.5,8.2,2.7,OVER,13.7,10.83,4.0,9.67,8.2,8.1,,,
+Andrew Nembhard,PTS,10.5,15.0,4.5,OVER,33.1,14.25,14.5,13.33,15.0,14.4,,,
+Aaron Nesmith,PTS,11.5,14.8,3.3,OVER,28.8,12.25,16.0,13.67,14.8,14.5,,,
+Shai Gilgeous-Alexander,PTS,34.0,29.8,-4.2,UNDER,37.2,30.17,27.75,24.33,29.8,29.2,,,
+Isaiah Hartenstein,PTS,6.0,9.0,3.0,OVER,23.3,9.67,7.5,8.33,9.0,8.8,,,
+Tyrese Haliburton,AST,8.5,11.6,3.1,OVER,35.8,11.0,9.0,,,,11.33,11.6,9.8
