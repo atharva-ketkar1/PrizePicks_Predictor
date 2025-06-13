@@ -3,7 +3,7 @@ Try to find the best lines in PrizePicks
 
 ## NBA Finals – 6/11/2025: OKC vs Indiana
 
-Went 5/5 for predictions_2025-06-11.csv which used an extremely basic strategy(predict_lines.py).
+Went 5/5 for predictions_2025-06-11.csv which used an extremely basic strategy(predict_lines.py -> predictions_2025-06-11.csv).
 
 | Player            | Line Score | Predicted Avg | Edge  | Pick   | Results |
 |-------------------|------------|----------------|--------|--------|---------|
@@ -16,7 +16,7 @@ Went 5/5 for predictions_2025-06-11.csv which used an extremely basic strategy(p
 
 ## NBA Finals – 6/13/2025: OKC vs Indiana
 
-### Model 1 Predictions(predict_lines.py)
+### Model 1 Predictions(predict_lines.py -> predictions_2025-06-12.csv)
 
 | Player                  | Line | Predicted | Delta | Recommendation | Result |
 |-------------------------|------|-----------|--------|----------------|--------|
@@ -25,7 +25,7 @@ Went 5/5 for predictions_2025-06-11.csv which used an extremely basic strategy(p
 
 ---
 
-### Model 2 Predictions(predict_lines_v2.py)
+### Model 2 Predictions(predict_lines_v2.py -> predictions_2025-06-12_v2.csv)
 
 | Player                  | Stat | Line | Predicted | Delta | Rec   | Result |
 |-------------------------|------|------|-----------|--------|--------|--------|
