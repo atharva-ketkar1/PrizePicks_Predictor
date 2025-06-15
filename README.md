@@ -20,34 +20,36 @@ Went 5/5 for predictions_2025-06-11.csv which used an extremely basic strategy(p
 
 | Player                  | Line | Predicted | Delta | Recommendation | Result |
 |-------------------------|------|-----------|--------|----------------|--------|
-| Pascal Siakam           | 19.5 | 26.4      | +6.9   | OVER           |        |
-| Shai Gilgeous-Alexander | 34.0 | 31.4      | -2.6   | UNDER          |        |
+| Pascal Siakam           | 19.5 | 26.4      | +6.9   | OVER           | ✅     |
+| Shai Gilgeous-Alexander | 34.0 | 31.4      | -2.6   | UNDER          | ❌       |
 
 ---
 
 ### Model 2 Predictions(predict_lines_v2.py -> predictions_2025-06-12_v2.csv)
+- Literally got everything wrong, which is as insane as getting everything right
 
 | Player                  | Stat | Line | Predicted | Delta | Rec   | Result |
 |-------------------------|------|------|-----------|--------|--------|--------|
-| Isaiah Joe              | PTS  | 2.5  | 7.8       | +5.3   | OVER   |        |
-| Myles Turner            | PTS  | 13.5 | 16.8      | +3.3   | OVER   |        |
-| Aaron Wiggins           | PTS  | 5.5  | 8.2       | +2.7   | OVER   |        |
-| Aaron Wiggins           | PTS  | 5.5  | 8.2       | +2.7   | OVER   |        |
-| Andrew Nembhard         | PTS  | 10.5 | 15.0      | +4.5   | OVER   |        |
-| Aaron Nesmith           | PTS  | 11.5 | 14.8      | +3.3   | OVER   |        |
-| Shai Gilgeous-Alexander | PTS  | 34.0 | 29.8      | -4.2   | UNDER  |        |
-| Isaiah Hartenstein      | PTS  | 6.0  | 9.0       | +3.0   | OVER   |        |
-| Tyrese Haliburton       | AST  | 8.5  | 11.6      | +3.1   | OVER   |        |
+| Isaiah Joe              | PTS  | 2.5  | 7.8       | +5.3   | OVER   | ❌       |
+| Myles Turner            | PTS  | 13.5 | 16.8      | +3.3   | OVER   | ❌       |
+| Aaron Wiggins           | PTS  | 5.5  | 8.2       | +2.7   | OVER   | ❌       |
+| Aaron Wiggins           | PTS  | 5.5  | 8.2       | +2.7   | OVER   | ❌       |
+| Andrew Nembhard         | PTS  | 10.5 | 15.0      | +4.5   | OVER   | ❌       |
+| Aaron Nesmith           | PTS  | 11.5 | 14.8      | +3.3   | OVER   | ❌       |
+| Shai Gilgeous-Alexander | PTS  | 34.0 | 29.8      | -4.2   | UNDER  | ❌       |
+| Isaiah Hartenstein      | PTS  | 6.0  | 9.0       | +3.0   | OVER   | ❌       |
+| Tyrese Haliburton       | AST  | 8.5  | 11.6      | +3.1   | OVER   | ❌       |
 
 ---
 
 ### ML Model Predictions(nba_ml_predictions.ipynb)
+- Terrible predictions
 
 | Player                  | Team | Stat | Line | Predicted | Delta | Recommendation | Result |
 |-------------------------|------|------|------|-----------|--------|----------------|--------|
-| Cason Wallace           | OKC  | PTS  | 5.5  | 12.71     | +7.21  | OVER           |        |
-| Isaiah Joe              | OKC  | PTS  | 2.5  | 6.46      | +3.96  | OVER           |        |
-| Chet Holmgren           | OKC  | PTS  | 15.5 | 11.75     | -3.75  | UNDER          |        |
-| Isaiah Hartenstein      | OKC  | PTS  | 6.0  | 9.48      | +3.48  | OVER           |        |
-| Aaron Nesmith           | IND  | PTS  | 11.5 | 14.66     | +3.16  | OVER           |        |
-| Shai Gilgeous-Alexander | OKC  | PTS  | 34.0 | 30.86     | -3.14  | UNDER          |        |
+| Cason Wallace           | OKC  | PTS  | 5.5  | 12.71     | +7.21  | OVER           | ❌       |
+| Isaiah Joe              | OKC  | PTS  | 2.5  | 6.46      | +3.96  | OVER           | ❌       |
+| Chet Holmgren           | OKC  | PTS  | 15.5 | 11.75     | -3.75  | UNDER          | ✅       |
+| Isaiah Hartenstein      | OKC  | PTS  | 6.0  | 9.48      | +3.48  | OVER           | ❌       |
+| Aaron Nesmith           | IND  | PTS  | 11.5 | 14.66     | +3.16  | OVER           | ❌       |
+| Shai Gilgeous-Alexander | OKC  | PTS  | 34.0 | 30.86     | -3.14  | UNDER          | ❌       |
