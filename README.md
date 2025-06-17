@@ -60,24 +60,28 @@ Went 5/5 for predictions_2025-06-11.csv which used an extremely basic strategy(p
 
 ### Model 1 Predictions(predict_lines.py -> predictions_2025-06-15.csv)
 
+- Another 100% success rate for Model 1
+
 | Player                  | Line | Predicted | Delta | Recommendation | Result |
 |-------------------------|------|-----------|--------|----------------|--------|
-| Pascal Siakam           | 19.5 | 26.4      | +6.9   | OVER           |        |
-| Shai Gilgeous-Alexander | 34.5 | 31.4      | -3.1   | UNDER          |        |
-| Alex Caruso             | 10.5 | 7.8       | -2.7   | UNDER          |        |
+| Pascal Siakam           | 19.5 | 26.4      | +6.9   | OVER           | ✅       |
+| Shai Gilgeous-Alexander | 34.5 | 31.4      | -3.1   | UNDER          | ✅       |
+| Alex Caruso             | 10.5 | 7.8       | -2.7   | UNDER          | ✅       |
 
 ---
 
 ### Model 2 Predictions(predict_lines_v2.py -> predictions_2025-06-15_v2.csv)
 
+- 4/9 correct
+
 | Player                  | Stat | Line | Predicted | Delta | Recommendation | Result |
 |-------------------------|------|------|-----------|--------|----------------|--------|
-| Myles Turner            | PTS  | 14.0 | 16.8      | +2.8   | OVER           |        |
-| Aaron Wiggins           | PTS  | 5.0  | 8.2       | +3.2   | OVER           |        |
-| Andrew Nembhard         | PTS  | 10.5 | 15.0      | +4.5   | OVER           |        |
-| Aaron Nesmith           | PTS  | 10.5 | 14.8      | +4.3   | OVER           |        |
-| Isaiah Joe              | PTS  | 2.5  | 7.8       | +5.3   | OVER           |        |
-| Shai Gilgeous-Alexander | PTS  | 34.5 | 29.8      | -4.7   | UNDER          |        |
-| Isaiah Hartenstein      | PTS  | 6.0  | 9.0       | +3.0   | OVER           |        |
-| Obi Toppin              | REB  | 5.5  | 1.6       | -3.9   | UNDER          |        |
-| Tyrese Haliburton       | AST  | 8.0  | 11.6      | +3.6   | OVER           |        |
+| Myles Turner            | PTS  | 14.0 | 16.8      | +2.8   | OVER           | ❌       |
+| Aaron Wiggins           | PTS  | 5.0  | 8.2       | +3.2   | OVER           | ✅       |
+| Andrew Nembhard         | PTS  | 10.5 | 15.0      | +4.5   | OVER           | ❌       |
+| Aaron Nesmith           | PTS  | 10.5 | 14.8      | +4.3   | OVER           | ✅       |
+| Isaiah Joe              | PTS  | 2.5  | 7.8       | +5.3   | OVER           | ❌       |
+| Shai Gilgeous-Alexander | PTS  | 34.5 | 29.8      | -4.7   | UNDER          | ✅       |
+| Isaiah Hartenstein      | PTS  | 6.0  | 9.0       | +3.0   | OVER           | ❌       |
+| Obi Toppin              | REB  | 5.5  | 1.6       | -3.9   | UNDER          | ✅       |
+| Tyrese Haliburton       | AST  | 8.0  | 11.6      | +3.6   | OVER           | ❌       |
