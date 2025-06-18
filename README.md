@@ -1,7 +1,7 @@
 # PrizePicks_Predictor
 Try to find the best lines in PrizePicks
 
-## NBA Finals – 6/11/2025: OKC vs Indiana
+## NBA Finals – 6/11/2025: OKC vs Indiana Game 3
 
 Went 5/5 for predictions_2025-06-11.csv which used an extremely basic strategy(predict_lines.py -> predictions_2025-06-11.csv).
 
@@ -14,7 +14,7 @@ Went 5/5 for predictions_2025-06-11.csv which used an extremely basic strategy(p
 | Andrew Nembhard   | 11.5       | 8.8            | -2.7   | UNDER  | ✅       |
  
 
-## NBA Finals – 6/13/2025: OKC vs Indiana
+## NBA Finals – 6/13/2025: OKC vs Indiana Game 4
 
 ### Model 1 Predictions(predict_lines.py -> predictions_2025-06-12.csv)
 - Could've been 100% correct again if SGA didn't have a lot of free throws in the 4th
@@ -56,7 +56,7 @@ Went 5/5 for predictions_2025-06-11.csv which used an extremely basic strategy(p
 | Shai Gilgeous-Alexander | OKC  | PTS  | 34.0 | 30.86     | -3.14  | UNDER          | ❌       |
 
 
-## NBA Finals – 6/16/2025: OKC vs Indiana
+## NBA Finals – 6/16/2025: OKC vs Indiana Game 5
 
 ### Model 1 Predictions(predict_lines.py -> predictions_2025-06-15.csv)
 
@@ -85,3 +85,29 @@ Went 5/5 for predictions_2025-06-11.csv which used an extremely basic strategy(p
 | Isaiah Hartenstein      | PTS  | 6.0  | 9.0       | +3.0   | OVER           | ❌       |
 | Obi Toppin              | REB  | 5.5  | 1.6       | -3.9   | UNDER          | ✅       |
 | Tyrese Haliburton       | AST  | 8.0  | 11.6      | +3.6   | OVER           | ❌       |
+
+## NBA Finals – 6/19/2025: OKC vs Indiana Game 6
+
+### Model 1 Predictions(predict_lines.py -> predictions_2025-06-18.csv)
+
+| Player             | Line | Predicted | Delta | Recommendation | Result |
+|--------------------|------|-----------|--------|----------------|--------|
+| Tyrese Haliburton  | 13.5 | 19.0      | +5.5   | OVER           |        |
+| Pascal Siakam      | 21.0 | 26.4      | +5.4   | OVER           |        |
+| Aaron Wiggins      | 6.0  | 3.0       | -3.0   | UNDER          |        |
+| T.J. McConnell     | 10.5 | 7.6       | -2.9   | UNDER          |        |
+
+---
+
+### Model 2 Predictions(predict_lines_v2.py -> predictions_2025-06-18_v2.csv)
+
+| Player                  | Stat | Line | Predicted | Delta | Recommendation | Result |
+|-------------------------|------|------|-----------|--------|----------------|--------|
+| Myles Turner            | PTS  | 13.5 | 16.8      | +3.3   | OVER           |        |
+| Andrew Nembhard         | PTS  | 10.5 | 15.0      | +4.5   | OVER           |        |
+| Aaron Nesmith           | PTS  | 11.0 | 14.8      | +3.8   | OVER           |        |
+| Tyrese Haliburton       | PTS  | 13.5 | 17.6      | +4.1   | OVER           |        |
+| Shai Gilgeous-Alexander | PTS  | 33.5 | 29.8      | -3.7   | UNDER          |        |
+| Isaiah Hartenstein      | PTS  | 5.5  | 9.0       | +3.5   | OVER           |        |
+| Obi Toppin              | REB  | 5.0  | 1.6       | -3.4   | UNDER          |        |
+| Tyrese Haliburton       | AST  | 7.0  | 11.6      | +4.6   | OVER           |        |
