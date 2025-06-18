@@ -1,0 +1,9 @@
+player,stat_type,line_score,predicted_avg,edge,pick,minutes_avg,home_avg,away_avg,PTS_avg_3,PTS_avg_5,PTS_avg_10,REB_avg_3,REB_avg_5,REB_avg_10,AST_avg_3,AST_avg_5,AST_avg_10
+Myles Turner,PTS,13.5,16.8,3.3,OVER,30.1,15.2,14.6,13.33,16.8,14.9,,,,,,
+Andrew Nembhard,PTS,10.5,15.0,4.5,OVER,33.0,13.4,11.6,13.33,15.0,12.5,,,,,,
+Aaron Nesmith,PTS,11.0,14.8,3.8,OVER,28.5,11.4,14.0,13.67,14.8,12.7,,,,,,
+Tyrese Haliburton,PTS,13.5,17.6,4.1,OVER,35.6,19.4,13.2,15.0,17.6,16.3,,,,,,
+Shai Gilgeous-Alexander,PTS,33.5,29.8,-3.7,UNDER,37.5,29.67,32.0,24.33,29.8,30.6,,,,,,
+Isaiah Hartenstein,PTS,5.5,9.0,3.5,OVER,22.2,8.0,5.5,8.33,9.0,7.0,,,,,,
+Obi Toppin,REB,5.0,1.6,-3.4,UNDER,20.0,3.6,3.4,,,,2.0,1.6,3.5,,,
+Tyrese Haliburton,AST,7.0,11.6,4.6,OVER,35.6,10.2,8.6,,,,,,,11.33,11.6,9.4
