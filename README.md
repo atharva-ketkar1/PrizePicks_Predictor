@@ -115,3 +115,31 @@ Went 5/5 for predictions_2025-06-11.csv which used an extremely basic strategy(p
 | Isaiah Hartenstein      | PTS  | 5.5  | 9.0       | +3.5   | OVER           | ✅       |
 | Obi Toppin              | REB  | 5.0  | 1.6       | -3.4   | UNDER          | ❌       |
 | Tyrese Haliburton       | AST  | 7.0  | 11.6      | +4.6   | OVER           | ❌       |
+
+## NBA Finals – 6/22/2025: OKC vs Indiana Game 7
+
+### Model 1 Predictions(predict_lines.py -> predictions_2025-06-21.csv)
+
+| Player            | Line | Predicted | Delta | Recommendation | Result |
+|-------------------|------|-----------|--------|----------------|--------|
+| Pascal Siakam     | 20.5 | 26.4      | +5.9   | OVER           |        |
+| Aaron Wiggins     | 6.5  | 3.0       | -3.5   | UNDER          |        |
+| Tyrese Haliburton | 15.5 | 19.0      | +3.5   | OVER           |        |
+| Chet Holmgren     | 15.0 | 18.0      | +3.0   | OVER           |        |
+
+---
+
+### Model 2 Predictions(predict_lines_v2.py -> predictions_2025-06-21_v2.csv)
+  
+| Player                  | Stat | Line | Predicted | Delta | Recommendation | Result |
+|-------------------------|------|------|-----------|--------|----------------|--------|
+| Shai Gilgeous-Alexander | PTS  | 32.5 | 29.8      | -2.7   | UNDER          |        |
+| Myles Turner            | PTS  | 12.0 | 16.8      | +4.8   | OVER           |        |
+| Andrew Nembhard         | PTS  | 10.5 | 15.0      | +4.5   | OVER           |        |
+| Aaron Nesmith           | PTS  | 10.5 | 14.8      | +4.3   | OVER           |        |
+| Shai Gilgeous-Alexander | PTS  | 33.0 | 29.8      | -3.2   | UNDER          |        |
+| Isaiah Hartenstein      | PTS  | 5.5  | 9.0       | +3.5   | OVER           |        |
+| Chet Holmgren           | REB  | 10.0 | 7.4       | -2.6   | UNDER          |        |
+| Obi Toppin              | REB  | 5.0  | 1.6       | -3.4   | UNDER          |        |
+| Isaiah Hartenstein      | REB  | 6.0  | 8.8       | +2.8   | OVER           |        |
+| Tyrese Haliburton       | AST  | 7.0  | 11.6      | +4.6   | OVER           |        |
