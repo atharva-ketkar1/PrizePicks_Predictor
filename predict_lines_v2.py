@@ -76,6 +76,6 @@ def save_predictions(df, output_dir='predictions'):
     print(f"Saved predictions to: {output_path}")
 
 if __name__ == "__main__":
-    slate_path = "data/prizepicks_slates/prizepicks_slate_2025-06-18.csv"
+    slate_path = "data/prizepicks_slates/prizepicks_slate_2025-06-21.csv"
     df = predict_edges(slate_path, stat_types=['PTS', 'REB', 'AST'])
     save_predictions(df)

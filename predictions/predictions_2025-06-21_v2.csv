@@ -1,0 +1,11 @@
+player,stat_type,line_score,predicted_avg,edge,pick,minutes_avg,home_avg,away_avg,PTS_avg_3,PTS_avg_5,PTS_avg_10,REB_avg_3,REB_avg_5,REB_avg_10,AST_avg_3,AST_avg_5,AST_avg_10
+Shai Gilgeous-Alexander,PTS,32.5,29.8,-2.7,UNDER,36.6,29.0,29.8,24.33,29.8,29.4,,,,,,
+Myles Turner,PTS,12.0,16.8,4.8,OVER,30.1,15.2,14.6,13.33,16.8,14.9,,,,,,
+Andrew Nembhard,PTS,10.5,15.0,4.5,OVER,33.0,13.4,11.6,13.33,15.0,12.5,,,,,,
+Aaron Nesmith,PTS,10.5,14.8,4.3,OVER,28.5,11.4,14.0,13.67,14.8,12.7,,,,,,
+Shai Gilgeous-Alexander,PTS,33.0,29.8,-3.2,UNDER,36.6,29.0,29.8,24.33,29.8,29.4,,,,,,
+Isaiah Hartenstein,PTS,5.5,9.0,3.5,OVER,20.9,7.2,6.4,8.33,9.0,6.8,,,,,,
+Chet Holmgren,REB,10.0,7.4,-2.6,UNDER,29.7,8.8,8.2,,,,9.67,7.4,8.5,,,
+Obi Toppin,REB,5.0,1.6,-3.4,UNDER,20.0,3.6,3.4,,,,2.0,1.6,3.5,,,
+Isaiah Hartenstein,REB,6.0,8.8,2.8,OVER,20.9,8.6,6.0,,,,7.67,8.8,7.3,,,
+Tyrese Haliburton,AST,7.0,11.6,4.6,OVER,35.6,10.2,8.6,,,,,,,11.33,11.6,9.4

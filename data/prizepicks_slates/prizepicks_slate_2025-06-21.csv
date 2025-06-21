@@ -1,0 +1,233 @@
+player,team,stat_type,line_score
+Shai Gilgeous-Alexander,OKC,PTS,32.5
+Myles Turner,IND,Rebs+Asts,6.0
+Myles Turner,IND,Personal Fouls,2.5
+T.J. McConnell,IND,Defensive Rebounds,2.5
+T.J. McConnell,IND,Offensive Rebounds,0.5
+Luguentz Dort,OKC,Personal Fouls,3.5
+Luguentz Dort,OKC,PTS,8.0
+Aaron Wiggins,OKC,Offensive Rebounds,0.5
+Jalen Williams,OKC,Rebs+Asts,10.0
+Jalen Williams,OKC,Defensive Rebounds,4.5
+Andrew Nembhard,IND,AST,4.0
+Andrew Nembhard,IND,Personal Fouls,3.0
+Aaron Nesmith,IND,Offensive Rebounds,0.5
+Aaron Nesmith,IND,Personal Fouls,4.0
+Bennedict Mathurin,IND,Defensive Rebounds,2.5
+Bennedict Mathurin,IND,Offensive Rebounds,0.5
+Chet Holmgren,OKC,REB,10.0
+Obi Toppin,IND,Defensive Rebounds,4.5
+Pascal Siakam,IND,Personal Fouls,3.0
+Tyrese Haliburton,IND,AST,7.0
+Tyrese Haliburton,IND,REB,4.0
+Shai Gilgeous-Alexander,OKC,AST,6.0
+Shai Gilgeous-Alexander,OKC,Offensive Rebounds,0.5
+Shai Gilgeous-Alexander,OKC,Rebs+Asts,11.0
+Shai Gilgeous-Alexander,OKC,3-PT Made,1.5
+Alex Caruso,OKC,Defensive Rebounds,2.5
+Alex Caruso,OKC,Personal Fouls,3.0
+Myles Turner,IND,REB,5.0
+Myles Turner,IND,Two Pointers Attempted,4.5
+Myles Turner,IND,Turnovers,1.5
+Myles Turner,IND,Offensive Rebounds,1.5
+Myles Turner,IND,Pts+Asts,13.5
+Myles Turner,IND,Pts+Rebs,17.5
+Myles Turner,IND,Defensive Rebounds,3.5
+Myles Turner,IND,Pts+Rebs+Asts,18.5
+Myles Turner,IND,Free Throws Made,2.5
+Myles Turner,IND,Two Pointers Made,2.5
+Myles Turner,IND,Free Throws Attempted,3.5
+Myles Turner,IND,3-PT Attempted,4.0
+Myles Turner,IND,FG Made,4.0
+Myles Turner,IND,PTS,12.0
+Myles Turner,IND,Fantasy Score,24.0
+Myles Turner,IND,FG Attempted,9.5
+T.J. McConnell,IND,FG Made,4.0
+T.J. McConnell,IND,Two Pointers Attempted,7.5
+T.J. McConnell,IND,Pts+Rebs,13.0
+T.J. McConnell,IND,Pts+Rebs+Asts,17.5
+T.J. McConnell,IND,Two Pointers Made,3.5
+T.J. McConnell,IND,3-PT Attempted,0.5
+T.J. McConnell,IND,Rebs+Asts,7.5
+T.J. McConnell,IND,Pts+Asts,14.0
+T.J. McConnell,IND,PTS,9.5
+T.J. McConnell,IND,Free Throws Attempted,1.5
+T.J. McConnell,IND,AST,4.5
+T.J. McConnell,IND,FG Attempted,8.5
+Luguentz Dort,OKC,3-PT Attempted,5.0
+Luguentz Dort,OKC,REB,3.5
+Luguentz Dort,OKC,Fantasy Score,17.5
+Luguentz Dort,OKC,Pts+Asts,8.5
+Luguentz Dort,OKC,Pts+Rebs,11.5
+Luguentz Dort,OKC,FG Attempted,7.0
+Luguentz Dort,OKC,Pts+Rebs+Asts,13.0
+Luguentz Dort,OKC,Rebs+Asts,4.5
+Kenrich Williams,OKC,Pts+Rebs+Asts,5.5
+Kenrich Williams,OKC,AST,0.5
+Kenrich Williams,OKC,Pts+Rebs,4.5
+Aaron Wiggins,OKC,Two Pointers Attempted,2.5
+Aaron Wiggins,OKC,Free Throws Made,0.5
+Aaron Wiggins,OKC,Pts+Rebs,9.0
+Aaron Wiggins,OKC,Pts+Rebs+Asts,10.0
+Aaron Wiggins,OKC,REB,2.5
+Aaron Wiggins,OKC,PTS,6.5
+Aaron Wiggins,OKC,FG Attempted,5.5
+Aaron Wiggins,OKC,3-PT Attempted,2.5
+Aaron Wiggins,OKC,Pts+Asts,7.5
+Jalen Williams,OKC,Personal Fouls,3.0
+Jalen Williams,OKC,Pts+Rebs,28.0
+Jalen Williams,OKC,Pts+Rebs+Asts,32.5
+Jalen Williams,OKC,PTS,22.5
+Jalen Williams,OKC,Two Pointers Made,6.5
+Jalen Williams,OKC,Pts+Asts,27.0
+Jalen Williams,OKC,Free Throws Attempted,7.0
+Jalen Williams,OKC,REB,5.0
+Jalen Williams,OKC,FG Made,8.0
+Jalen Williams,OKC,Fantasy Score,38.5
+Jalen Williams,OKC,Two Pointers Attempted,12.5
+Jalen Williams,OKC,3-PT Attempted,4.5
+Jalen Williams,OKC,FG Attempted,17.0
+Jalen Williams,OKC,AST,4.5
+Andrew Nembhard,IND,Two Pointers Made,2.5
+Andrew Nembhard,IND,3-PT Attempted,4.0
+Andrew Nembhard,IND,Rebs+Asts,7.5
+Andrew Nembhard,IND,Pts+Rebs,14.0
+Andrew Nembhard,IND,Pts+Asts,15.0
+Andrew Nembhard,IND,PTS,10.5
+Andrew Nembhard,IND,Pts+Rebs+Asts,18.5
+Andrew Nembhard,IND,Two Pointers Attempted,5.0
+Andrew Nembhard,IND,Fantasy Score,23.0
+Andrew Nembhard,IND,Free Throws Made,1.5
+Andrew Nembhard,IND,FG Made,4.0
+Andrew Nembhard,IND,FG Attempted,8.5
+Aaron Nesmith,IND,Free Throws Made,1.5
+Aaron Nesmith,IND,Rebs+Asts,5.5
+Aaron Nesmith,IND,Pts+Rebs+Asts,16.5
+Aaron Nesmith,IND,Pts+Asts,11.5
+Aaron Nesmith,IND,REB,4.5
+Aaron Nesmith,IND,Fantasy Score,20.0
+Aaron Nesmith,IND,3-PT Attempted,5.0
+Aaron Nesmith,IND,PTS,10.5
+Aaron Nesmith,IND,Two Pointers Made,1.5
+Aaron Nesmith,IND,FG Made,3.5
+Aaron Nesmith,IND,Pts+Rebs,15.0
+Aaron Nesmith,IND,FG Attempted,8.5
+Bennedict Mathurin,IND,PTS,7.5
+Bennedict Mathurin,IND,Pts+Asts,8.5
+Bennedict Mathurin,IND,Two Pointers Attempted,3.5
+Bennedict Mathurin,IND,Free Throws Made,2.5
+Bennedict Mathurin,IND,Two Pointers Made,1.5
+Bennedict Mathurin,IND,Pts+Rebs,10.5
+Bennedict Mathurin,IND,Pts+Rebs+Asts,11.5
+Bennedict Mathurin,IND,3-PT Made,0.5
+Bennedict Mathurin,IND,FG Attempted,6.0
+Chet Holmgren,OKC,Rebs+Asts,11.0
+Chet Holmgren,OKC,Fantasy Score,34.0
+Chet Holmgren,OKC,Defensive Rebounds,8.0
+Chet Holmgren,OKC,FG Made,5.5
+Chet Holmgren,OKC,PTS,15.0
+Chet Holmgren,OKC,Pts+Rebs,25.5
+Chet Holmgren,OKC,Two Pointers Made,4.5
+Chet Holmgren,OKC,Pts+Asts,16.5
+Chet Holmgren,OKC,Two Pointers Attempted,8.5
+Chet Holmgren,OKC,Offensive Rebounds,2.0
+Chet Holmgren,OKC,Pts+Rebs+Asts,27.0
+Chet Holmgren,OKC,3-PT Attempted,3.5
+Chet Holmgren,OKC,FG Attempted,12.5
+Obi Toppin,IND,FG Attempted,8.5
+Obi Toppin,IND,FG Made,4.0
+Obi Toppin,IND,Rebs+Asts,6.5
+Obi Toppin,IND,REB,5.0
+Obi Toppin,IND,Steals,0.5
+Obi Toppin,IND,Pts+Rebs+Asts,17.0
+Obi Toppin,IND,Pts+Asts,11.5
+Obi Toppin,IND,PTS,10.5
+Obi Toppin,IND,3-PT Attempted,4.5
+Obi Toppin,IND,Fantasy Score,21.0
+Obi Toppin,IND,Pts+Rebs,15.5
+Obi Toppin,IND,Two Pointers Attempted,4.5
+Cason Wallace,OKC,Pts+Rebs,6.5
+Cason Wallace,OKC,Pts+Rebs+Asts,8.0
+Cason Wallace,OKC,PTS,4.5
+Cason Wallace,OKC,Pts+Asts,5.5
+Cason Wallace,OKC,Rebs+Asts,3.5
+Pascal Siakam,IND,Free Throws Attempted,6.5
+Pascal Siakam,IND,Free Throws Made,5.0
+Pascal Siakam,IND,FG Made,7.0
+Pascal Siakam,IND,FG Attempted,15.0
+Pascal Siakam,IND,PTS,20.5
+Pascal Siakam,IND,Pts+Rebs+Asts,32.0
+Pascal Siakam,IND,Pts+Rebs,28.0
+Pascal Siakam,IND,Defensive Rebounds,5.5
+Pascal Siakam,IND,Offensive Rebounds,2.0
+Pascal Siakam,IND,Fantasy Score,38.0
+Pascal Siakam,IND,Pts+Asts,24.5
+Pascal Siakam,IND,Two Pointers Made,6.0
+Pascal Siakam,IND,Rebs+Asts,11.0
+Pascal Siakam,IND,3-PT Attempted,4.0
+Pascal Siakam,IND,AST,3.5
+Pascal Siakam,IND,Two Pointers Attempted,11.0
+Pascal Siakam,IND,REB,7.5
+Tyrese Haliburton,IND,3-PT Attempted,7.0
+Tyrese Haliburton,IND,FG Attempted,12.5
+Tyrese Haliburton,IND,PTS,15.5
+Tyrese Haliburton,IND,Fantasy Score,32.0
+Tyrese Haliburton,IND,Free Throws Attempted,2.5
+Tyrese Haliburton,IND,Two Pointers Attempted,5.5
+Tyrese Haliburton,IND,FG Made,5.5
+Tyrese Haliburton,IND,Pts+Asts,22.0
+Tyrese Haliburton,IND,Pts+Rebs,19.5
+Tyrese Haliburton,IND,Rebs+Asts,11.0
+Tyrese Haliburton,IND,Pts+Rebs+Asts,26.5
+Shai Gilgeous-Alexander,OKC,Two Pointers Made,10.0
+Shai Gilgeous-Alexander,OKC,Personal Fouls,2.5
+Shai Gilgeous-Alexander,OKC,Free Throws Attempted,9.5
+Shai Gilgeous-Alexander,OKC,PTS,33.0
+Shai Gilgeous-Alexander,OKC,Pts+Asts,39.5
+Shai Gilgeous-Alexander,OKC,Fantasy Score,52.5
+Shai Gilgeous-Alexander,OKC,FG Made,11.5
+Shai Gilgeous-Alexander,OKC,Two Pointers Attempted,18.5
+Shai Gilgeous-Alexander,OKC,Pts+Rebs,38.0
+Shai Gilgeous-Alexander,OKC,FG Attempted,23.0
+Shai Gilgeous-Alexander,OKC,Free Throws Made,8.0
+Shai Gilgeous-Alexander,OKC,Pts+Rebs+Asts,44.5
+Shai Gilgeous-Alexander,OKC,Turnovers,2.5
+Shai Gilgeous-Alexander,OKC,REB,5.0
+Alex Caruso,OKC,Free Throws Made,1.5
+Alex Caruso,OKC,Blocked Shots,0.5
+Alex Caruso,OKC,PTS,9.0
+Alex Caruso,OKC,FG Attempted,7.0
+Alex Caruso,OKC,Rebs+Asts,6.0
+Alex Caruso,OKC,Pts+Asts,11.5
+Alex Caruso,OKC,AST,2.5
+Alex Caruso,OKC,Pts+Rebs,12.5
+Alex Caruso,OKC,3-PT Attempted,3.5
+Alex Caruso,OKC,Pts+Rebs+Asts,15.5
+Alex Caruso,OKC,Fantasy Score,23.0
+Isaiah Hartenstein,OKC,Defensive Rebounds,4.0
+Isaiah Hartenstein,OKC,Fantasy Score,18.5
+Isaiah Hartenstein,OKC,REB,6.0
+Isaiah Hartenstein,OKC,Free Throws Made,0.5
+Isaiah Hartenstein,OKC,Pts+Asts,7.5
+Isaiah Hartenstein,OKC,PTS,5.5
+Isaiah Hartenstein,OKC,Offensive Rebounds,2.0
+Isaiah Hartenstein,OKC,Rebs+Asts,8.0
+Isaiah Hartenstein,OKC,Pts+Rebs+Asts,14.0
+Isaiah Hartenstein,OKC,Pts+Rebs,12.0
+Chet Holmgren + Aaron Nesmith,OKC/IND,Points (Combo),26.0
+Jalen Williams + Pascal Siakam,OKC/IND,Points (Combo),43.0
+Chet Holmgren + Tyrese Haliburton,OKC/IND,Points (Combo),31.0
+Chet Holmgren + Pascal Siakam,OKC/IND,Points (Combo),36.0
+Chet Holmgren + Myles Turner,OKC/IND,Points (Combo),28.0
+Jalen Williams + Tyrese Haliburton,OKC/IND,Points (Combo),38.0
+Chet Holmgren + Andrew Nembhard,OKC/IND,Points (Combo),26.0
+Isaiah Hartenstein + Pascal Siakam,OKC/IND,Rebounds (Combo),13.5
+Chet Holmgren + Pascal Siakam,OKC/IND,Rebounds (Combo),17.5
+Isaiah Hartenstein + Myles Turner,OKC/IND,Rebounds (Combo),11.5
+Jalen Williams + Pascal Siakam,OKC/IND,Rebounds (Combo),12.5
+Jalen Williams + T.J. McConnell,OKC/IND,Assists (Combo),9.0
+Shai Gilgeous-Alexander + Tyrese Haliburton,OKC/IND,Assists (Combo),13.0
+Shai Gilgeous-Alexander + T.J. McConnell,OKC/IND,Assists (Combo),10.5
+Jalen Williams + Tyrese Haliburton,OKC/IND,Assists (Combo),11.5
+Luguentz Dort + Tyrese Haliburton,OKC/IND,3-PT Made (Combo),4.0
+Isaiah Hartenstein + Obi Toppin,OKC/IND,Rebounds (Combo),11.5
